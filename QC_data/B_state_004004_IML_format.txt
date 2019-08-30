@@ -1,0 +1,264 @@
+Test 1.6 -> No known depth for TEM2004004_1
+Test 1.6 -> No known depth for TEM2004004_3
+Test 1.6 -> No known depth for TEM2004004_4
+Test 1.6 -> No known depth for TEM2004004_5
+Test 1.6 -> No known depth for TEM2004004_6
+Test 1.6 -> No known depth for TEM2004004_7
+Test 1.6 -> No known depth for TEM2004004_8
+Test 1.6 -> No known depth for TEM2004004_9
+Test 1.6 -> No known depth for TEM2004004_10
+Test 1.6 -> No known depth for TEM2004004_11
+Test 1.6 -> No known depth for TEM2004004_12
+Test 1.6 -> No known depth for TEM2004004_13
+Test 1.6 -> No known depth for TEM2004004_14
+Test 1.6 -> No known depth for TEM2004004_15
+Test 1.6 -> No known depth for TEM2004004_16
+Test 1.6 -> No known depth for TEM2004004_17
+Test 1.6 -> No known depth for TEM2004004_18
+Test 1.6 -> No known depth for TEM2004004_19
+Test 1.6 -> No known depth for TEM2004004_20
+Test 1.6 -> No known depth for TEM2004004_21
+Test 1.6 -> No known depth for TEM2004004_22
+Test 1.6 -> No known depth for TEM2004004_23
+Test 1.6 -> No known depth for TEM2004004_24
+Test 1.6 -> No known depth for TEM2004004_25
+Test 1.6 -> No known depth for TEM2004004_26
+Test 1.6 -> No known depth for TEM2004004_27
+Test 1.6 -> No known depth for TEM2004004_28
+Test 1.6 -> No known depth for TEM2004004_29
+Test 1.6 -> No known depth for TEM2004004_30
+Test 1.6 -> No known depth for TEM2004004_31
+Test 1.6 -> No known depth for TEM2004004_32
+Test 1.6 -> No known depth for TEM2004004_33
+Test 1.6 -> No known depth for TEM2004004_34
+Test 1.6 -> No known depth for TEM2004004_35
+Test 1.6 -> No known depth for TEM2004004_36
+Test 1.6 -> No known depth for TEM2004004_37
+Test 1.6 -> No known depth for TEM2004004_38
+Test 1.6 -> No known depth for TEM2004004_39
+Test 1.6 -> No known depth for TEM2004004_40
+Test 1.6 -> No known depth for TEM2004004_41
+Test 1.6 -> No known depth for TEM2004004_42
+Test 1.6 -> No known depth for TEM2004004_42b
+Test 1.6 -> No known depth for TEM2004004_43
+Test 1.6 -> No known depth for TEM2004004_44
+Test 1.6 -> No known depth for TEM2004004_45
+Test 1.6 -> No known depth for TEM2004004_46
+Test 1.6 -> No known depth for TEM2004004_47
+Test 1.6 -> No known depth for TEM2004004_48
+Test 1.6 -> No known depth for TEM2004004_49
+Test 1.6 -> No known depth for TEM2004004_50
+Test 1.6 -> No known depth for TEM2004004_51
+Test 1.6 -> No known depth for TEM2004004_52
+Test 1.6 -> No known depth for TEM2004004_53
+Test 1.6 -> No known depth for TEM2004004_54
+Test 1.6 -> No known depth for TEM2004004_55
+Test 1.6 -> No known depth for TEM2004004_56
+Test 1.6 -> No known depth for TEM2004004_57
+Test 1.6 -> No known depth for TEM2004004_58
+Test 1.6 -> No known depth for TEM2004004_59
+Test 1.6 -> No known depth for TEM2004004_60
+Test 1.6 -> No known depth for TEM2004004_61
+Test 1.6 -> No known depth for TEM2004004_62
+Test 1.6 -> No known depth for TEM2004004_63
+Test 1.6 -> No known depth for TEM2004004_64
+Test 1.6 -> No known depth for TEM2004004_65
+Test 1.6 -> No known depth for TEM2004004_66
+Test 1.6 -> No known depth for TEM2004004_67
+Test 1.6 -> No known depth for TEM2004004_68
+Test 1.6 -> No known depth for TEM2004004_69
+Test 1.6 -> No known depth for TEM2004004_70
+Test 1.6 -> No known depth for TEM2004004_71
+Test 1.6 -> No known depth for TEM2004004_72
+Test 1.6 -> No known depth for TEM2004004_73
+Test 1.6 -> No known depth for TEM2004004_74
+Test 1.6 -> No known depth for TEM2004004_75
+Test 1.6 -> No known depth for TEM2004004_76
+Test 1.6 -> No known depth for TEM2004004_77
+Test 1.6 -> No known depth for TEM2004004_78
+Test 1.6 -> No known depth for TEM2004004_79
+Test 1.6 -> No known depth for TEM2004004_80
+Test 1.6 -> No known depth for TEM2004004_81
+Test 1.6 -> No known depth for TEM2004004_82
+Test 1.6 -> No known depth for TEM2004004_83
+Test 1.6 -> No known depth for TEM2004004_84
+Test 1.6 -> No known depth for TEM2004004_85
+Test 1.6 -> No known depth for TEM2004004_86
+Test 1.6 -> No known depth for TEM2004004_87
+Test 1.6 -> No known depth for TEM2004004_88
+TEM2004004_1: Test 3.6 -> Profile TEM2004004_1 outside TS Monthly Climatology polygons
+TEM2004004_1: Test 3.6 -> Profile TEM2004004_1 outside Monthly Nutrient Climatology polygons
+TEM2004004_3: Test 3.6 -> Profile TEM2004004_3 outside TS Monthly Climatology polygons
+TEM2004004_3: Test 3.6 -> Profile TEM2004004_3 outside Monthly Nutrient Climatology polygons
+TEM2004004_4: Test 3.6 -> Profile TEM2004004_4 outside TS Monthly Climatology polygons
+TEM2004004_4: Test 3.6 -> Profile TEM2004004_4 outside Monthly Nutrient Climatology polygons
+TEM2004004_5: Test 3.6 -> Profile TEM2004004_5 outside TS Monthly Climatology polygons
+TEM2004004_5: Test 3.6 -> Profile TEM2004004_5 outside Monthly Nutrient Climatology polygons
+TEM2004004_6: Test 3.6 -> Profile TEM2004004_6 outside TS Monthly Climatology polygons
+TEM2004004_6: Test 3.6 -> Profile TEM2004004_6 outside Monthly Nutrient Climatology polygons
+TEM2004004_7: Test 3.6 -> Profile TEM2004004_7 outside TS Monthly Climatology polygons
+TEM2004004_7: Test 3.6 -> Profile TEM2004004_7 outside Monthly Nutrient Climatology polygons
+TEM2004004_8: Test 3.6 -> Profile TEM2004004_8 outside TS Monthly Climatology polygons
+TEM2004004_8: Test 3.6 -> Profile TEM2004004_8 outside Monthly Nutrient Climatology polygons
+TEM2004004_9: Test 3.6 -> Profile TEM2004004_9 outside TS Monthly Climatology polygons
+TEM2004004_9: Test 3.6 -> Profile TEM2004004_9 outside Monthly Nutrient Climatology polygons
+TEM2004004_10: Test 3.6 -> Profile TEM2004004_10 outside TS Monthly Climatology polygons
+TEM2004004_10: Test 3.6 -> Profile TEM2004004_10 outside Monthly Nutrient Climatology polygons
+TEM2004004_11: Test 3.6 -> Profile TEM2004004_11 outside TS Monthly Climatology polygons
+TEM2004004_11: Test 3.6 -> Profile TEM2004004_11 outside Monthly Nutrient Climatology polygons
+TEM2004004_12: Test 3.6 -> Profile TEM2004004_12 outside TS Monthly Climatology polygons
+TEM2004004_12: Test 3.6 -> Profile TEM2004004_12 outside Monthly Nutrient Climatology polygons
+TEM2004004_13: Test 3.6 -> Profile TEM2004004_13 outside TS Monthly Climatology polygons
+TEM2004004_13: Test 3.6 -> Profile TEM2004004_13 outside Monthly Nutrient Climatology polygons
+TEM2004004_14: Test 3.6 -> Profile TEM2004004_14 outside TS Monthly Climatology polygons
+TEM2004004_14: Test 3.6 -> Profile TEM2004004_14 outside Monthly Nutrient Climatology polygons
+TEM2004004_15: Test 3.6 -> Profile TEM2004004_15 outside TS Monthly Climatology polygons
+TEM2004004_15: Test 3.6 -> Profile TEM2004004_15 outside Monthly Nutrient Climatology polygons
+TEM2004004_16: Test 3.6 -> Profile TEM2004004_16 outside TS Monthly Climatology polygons
+TEM2004004_16: Test 3.6 -> Profile TEM2004004_16 outside Monthly Nutrient Climatology polygons
+TEM2004004_17: Test 3.6 -> Profile TEM2004004_17 outside TS Monthly Climatology polygons
+TEM2004004_17: Test 3.6 -> Profile TEM2004004_17 outside Monthly Nutrient Climatology polygons
+TEM2004004_18: Test 3.6 -> Profile TEM2004004_18 outside TS Monthly Climatology polygons
+TEM2004004_18: Test 3.6 -> Profile TEM2004004_18 outside Monthly Nutrient Climatology polygons
+TEM2004004_19: Test 3.6 -> Profile TEM2004004_19 outside TS Monthly Climatology polygons
+TEM2004004_19: Test 3.6 -> Profile TEM2004004_19 outside Monthly Nutrient Climatology polygons
+TEM2004004_20: Test 3.6 -> Profile TEM2004004_20 outside TS Monthly Climatology polygons
+TEM2004004_20: Test 3.6 -> Profile TEM2004004_20 outside Monthly Nutrient Climatology polygons
+TEM2004004_21: Test 3.6 -> Profile TEM2004004_21 outside TS Monthly Climatology polygons
+TEM2004004_21: Test 3.6 -> Profile TEM2004004_21 outside Monthly Nutrient Climatology polygons
+TEM2004004_22: Test 3.6 -> Profile TEM2004004_22 outside TS Monthly Climatology polygons
+TEM2004004_22: Test 3.6 -> Profile TEM2004004_22 outside Monthly Nutrient Climatology polygons
+TEM2004004_23: Test 3.6 -> Profile TEM2004004_23 outside TS Monthly Climatology polygons
+TEM2004004_23: Test 3.6 -> Profile TEM2004004_23 outside Monthly Nutrient Climatology polygons
+TEM2004004_24: Test 3.6 -> Profile TEM2004004_24 outside TS Monthly Climatology polygons
+TEM2004004_24: Test 3.6 -> Profile TEM2004004_24 outside Monthly Nutrient Climatology polygons
+TEM2004004_25: Test 3.6 -> Profile TEM2004004_25 outside TS Monthly Climatology polygons
+TEM2004004_25: Test 3.6 -> Profile TEM2004004_25 outside Monthly Nutrient Climatology polygons
+TEM2004004_26: Test 3.6 -> Profile TEM2004004_26 outside TS Monthly Climatology polygons
+TEM2004004_26: Test 3.6 -> Profile TEM2004004_26 outside Monthly Nutrient Climatology polygons
+TEM2004004_27: Test 3.6 -> Profile TEM2004004_27 outside TS Monthly Climatology polygons
+TEM2004004_27: Test 3.6 -> Profile TEM2004004_27 outside Monthly Nutrient Climatology polygons
+TEM2004004_28: Test 3.6 -> Profile TEM2004004_28 outside TS Monthly Climatology polygons
+TEM2004004_28: Test 3.6 -> Profile TEM2004004_28 outside Monthly Nutrient Climatology polygons
+TEM2004004_29: Test 3.6 -> Profile TEM2004004_29 outside TS Monthly Climatology polygons
+TEM2004004_29: Test 3.6 -> Profile TEM2004004_29 outside Monthly Nutrient Climatology polygons
+TEM2004004_30: Test 3.6 -> Profile TEM2004004_30 outside TS Monthly Climatology polygons
+TEM2004004_30: Test 3.6 -> Profile TEM2004004_30 outside Monthly Nutrient Climatology polygons
+TEM2004004_31: Test 3.6 -> Profile TEM2004004_31 outside TS Monthly Climatology polygons
+TEM2004004_31: Test 3.6 -> Profile TEM2004004_31 outside Monthly Nutrient Climatology polygons
+TEM2004004_32: Test 3.6 -> Profile TEM2004004_32 outside TS Monthly Climatology polygons
+TEM2004004_32: Test 3.6 -> Profile TEM2004004_32 outside Monthly Nutrient Climatology polygons
+TEM2004004_33: Test 3.6 -> Profile TEM2004004_33 outside TS Monthly Climatology polygons
+TEM2004004_33: Test 3.6 -> Profile TEM2004004_33 outside Monthly Nutrient Climatology polygons
+TEM2004004_34: Test 3.6 -> Profile TEM2004004_34 outside TS Monthly Climatology polygons
+TEM2004004_34: Test 3.6 -> Profile TEM2004004_34 outside Monthly Nutrient Climatology polygons
+TEM2004004_35: Test 3.6 -> Profile TEM2004004_35 outside TS Monthly Climatology polygons
+TEM2004004_35: Test 3.6 -> Profile TEM2004004_35 outside Monthly Nutrient Climatology polygons
+TEM2004004_36: Test 3.6 -> Profile TEM2004004_36 outside TS Monthly Climatology polygons
+TEM2004004_36: Test 3.6 -> Profile TEM2004004_36 outside Monthly Nutrient Climatology polygons
+TEM2004004_37: Test 3.6 -> Profile TEM2004004_37 outside TS Monthly Climatology polygons
+TEM2004004_37: Test 3.6 -> Profile TEM2004004_37 outside Monthly Nutrient Climatology polygons
+TEM2004004_38: Test 3.6 -> Profile TEM2004004_38 outside TS Monthly Climatology polygons
+TEM2004004_38: Test 3.6 -> Profile TEM2004004_38 outside Monthly Nutrient Climatology polygons
+TEM2004004_39: Test 3.6 -> Profile TEM2004004_39 outside TS Monthly Climatology polygons
+TEM2004004_39: Test 3.6 -> Profile TEM2004004_39 outside Monthly Nutrient Climatology polygons
+TEM2004004_40: Test 3.6 -> Profile TEM2004004_40 outside TS Monthly Climatology polygons
+TEM2004004_40: Test 3.6 -> Profile TEM2004004_40 outside Monthly Nutrient Climatology polygons
+TEM2004004_41: Test 3.6 -> Profile TEM2004004_41 outside TS Monthly Climatology polygons
+TEM2004004_41: Test 3.6 -> Profile TEM2004004_41 outside Monthly Nutrient Climatology polygons
+TEM2004004_42: Test 3.6 -> Profile TEM2004004_42 outside TS Monthly Climatology polygons
+TEM2004004_42: Test 3.6 -> Profile TEM2004004_42 outside Monthly Nutrient Climatology polygons
+TEM2004004_42b: Test 3.6 -> Profile TEM2004004_42b outside TS Monthly Climatology polygons
+TEM2004004_42b: Test 3.6 -> Profile TEM2004004_42b outside Monthly Nutrient Climatology polygons
+TEM2004004_43: Test 3.6 -> Profile TEM2004004_43 outside TS Monthly Climatology polygons
+TEM2004004_43: Test 3.6 -> Profile TEM2004004_43 outside Monthly Nutrient Climatology polygons
+TEM2004004_44: Test 3.6 -> Profile TEM2004004_44 outside TS Monthly Climatology polygons
+TEM2004004_44: Test 3.6 -> Profile TEM2004004_44 outside Monthly Nutrient Climatology polygons
+TEM2004004_45: Test 3.6 -> Profile TEM2004004_45 outside TS Monthly Climatology polygons
+TEM2004004_45: Test 3.6 -> Profile TEM2004004_45 outside Monthly Nutrient Climatology polygons
+TEM2004004_46: Test 3.6 -> Profile TEM2004004_46 outside TS Monthly Climatology polygons
+TEM2004004_46: Test 3.6 -> Profile TEM2004004_46 outside Monthly Nutrient Climatology polygons
+TEM2004004_47: Test 3.6 -> Profile TEM2004004_47 outside TS Monthly Climatology polygons
+TEM2004004_47: Test 3.6 -> Profile TEM2004004_47 outside Monthly Nutrient Climatology polygons
+TEM2004004_48: Test 3.6 -> Profile TEM2004004_48 outside TS Monthly Climatology polygons
+TEM2004004_48: Test 3.6 -> Profile TEM2004004_48 outside Monthly Nutrient Climatology polygons
+TEM2004004_49: Test 3.6 -> Profile TEM2004004_49 outside TS Monthly Climatology polygons
+TEM2004004_49: Test 3.6 -> Profile TEM2004004_49 outside Monthly Nutrient Climatology polygons
+TEM2004004_50: Test 3.6 -> Profile TEM2004004_50 outside TS Monthly Climatology polygons
+TEM2004004_50: Test 3.6 -> Profile TEM2004004_50 outside Monthly Nutrient Climatology polygons
+TEM2004004_51: Test 3.6 -> Profile TEM2004004_51 outside TS Monthly Climatology polygons
+TEM2004004_51: Test 3.6 -> Profile TEM2004004_51 outside Monthly Nutrient Climatology polygons
+TEM2004004_52: Test 3.6 -> Profile TEM2004004_52 outside TS Monthly Climatology polygons
+TEM2004004_52: Test 3.6 -> Profile TEM2004004_52 outside Monthly Nutrient Climatology polygons
+TEM2004004_53: Test 3.6 -> Profile TEM2004004_53 outside TS Monthly Climatology polygons
+TEM2004004_53: Test 3.6 -> Profile TEM2004004_53 outside Monthly Nutrient Climatology polygons
+TEM2004004_54: Test 3.6 -> Profile TEM2004004_54 outside TS Monthly Climatology polygons
+TEM2004004_54: Test 3.6 -> Profile TEM2004004_54 outside Monthly Nutrient Climatology polygons
+TEM2004004_55: Test 3.6 -> Profile TEM2004004_55 outside TS Monthly Climatology polygons
+TEM2004004_55: Test 3.6 -> Profile TEM2004004_55 outside Monthly Nutrient Climatology polygons
+TEM2004004_56: Test 3.6 -> Profile TEM2004004_56 outside TS Monthly Climatology polygons
+TEM2004004_56: Test 3.6 -> Profile TEM2004004_56 outside Monthly Nutrient Climatology polygons
+TEM2004004_57: Test 3.6 -> Profile TEM2004004_57 outside TS Monthly Climatology polygons
+TEM2004004_57: Test 3.6 -> Profile TEM2004004_57 outside Monthly Nutrient Climatology polygons
+TEM2004004_58: Test 3.6 -> Profile TEM2004004_58 outside TS Monthly Climatology polygons
+TEM2004004_58: Test 3.6 -> Profile TEM2004004_58 outside Monthly Nutrient Climatology polygons
+TEM2004004_59: Test 3.6 -> Profile TEM2004004_59 outside TS Monthly Climatology polygons
+TEM2004004_59: Test 3.6 -> Profile TEM2004004_59 outside Monthly Nutrient Climatology polygons
+TEM2004004_60: Test 3.6 -> Profile TEM2004004_60 outside TS Monthly Climatology polygons
+TEM2004004_60: Test 3.6 -> Profile TEM2004004_60 outside Monthly Nutrient Climatology polygons
+TEM2004004_61: Test 3.6 -> Profile TEM2004004_61 outside TS Monthly Climatology polygons
+TEM2004004_61: Test 3.6 -> Profile TEM2004004_61 outside Monthly Nutrient Climatology polygons
+TEM2004004_62: Test 3.6 -> Profile TEM2004004_62 outside TS Monthly Climatology polygons
+TEM2004004_62: Test 3.6 -> Profile TEM2004004_62 outside Monthly Nutrient Climatology polygons
+TEM2004004_63: Test 3.6 -> Profile TEM2004004_63 outside TS Monthly Climatology polygons
+TEM2004004_63: Test 3.6 -> Profile TEM2004004_63 outside Monthly Nutrient Climatology polygons
+TEM2004004_64: Test 3.6 -> Profile TEM2004004_64 outside TS Monthly Climatology polygons
+TEM2004004_64: Test 3.6 -> Profile TEM2004004_64 outside Monthly Nutrient Climatology polygons
+TEM2004004_65: Test 3.6 -> Profile TEM2004004_65 outside TS Monthly Climatology polygons
+TEM2004004_65: Test 3.6 -> Profile TEM2004004_65 outside Monthly Nutrient Climatology polygons
+TEM2004004_66: Test 3.6 -> Profile TEM2004004_66 outside TS Monthly Climatology polygons
+TEM2004004_66: Test 3.6 -> Profile TEM2004004_66 outside Monthly Nutrient Climatology polygons
+TEM2004004_67: Test 3.6 -> Profile TEM2004004_67 outside TS Monthly Climatology polygons
+TEM2004004_67: Test 3.6 -> Profile TEM2004004_67 outside Monthly Nutrient Climatology polygons
+TEM2004004_68: Test 3.6 -> Profile TEM2004004_68 outside TS Monthly Climatology polygons
+TEM2004004_68: Test 3.6 -> Profile TEM2004004_68 outside Monthly Nutrient Climatology polygons
+TEM2004004_69: Test 3.6 -> Profile TEM2004004_69 outside TS Monthly Climatology polygons
+TEM2004004_69: Test 3.6 -> Profile TEM2004004_69 outside Monthly Nutrient Climatology polygons
+TEM2004004_70: Test 3.6 -> Profile TEM2004004_70 outside TS Monthly Climatology polygons
+TEM2004004_70: Test 3.6 -> Profile TEM2004004_70 outside Monthly Nutrient Climatology polygons
+TEM2004004_71: Test 3.6 -> Profile TEM2004004_71 outside TS Monthly Climatology polygons
+TEM2004004_71: Test 3.6 -> Profile TEM2004004_71 outside Monthly Nutrient Climatology polygons
+TEM2004004_72: Test 3.6 -> Profile TEM2004004_72 outside TS Monthly Climatology polygons
+TEM2004004_72: Test 3.6 -> Profile TEM2004004_72 outside Monthly Nutrient Climatology polygons
+TEM2004004_73: Test 3.6 -> Profile TEM2004004_73 outside TS Monthly Climatology polygons
+TEM2004004_73: Test 3.6 -> Profile TEM2004004_73 outside Monthly Nutrient Climatology polygons
+TEM2004004_74: Test 3.6 -> Profile TEM2004004_74 outside TS Monthly Climatology polygons
+TEM2004004_74: Test 3.6 -> Profile TEM2004004_74 outside Monthly Nutrient Climatology polygons
+TEM2004004_75: Test 3.6 -> Profile TEM2004004_75 outside TS Monthly Climatology polygons
+TEM2004004_75: Test 3.6 -> Profile TEM2004004_75 outside Monthly Nutrient Climatology polygons
+TEM2004004_76: Test 3.6 -> Profile TEM2004004_76 outside TS Monthly Climatology polygons
+TEM2004004_76: Test 3.6 -> Profile TEM2004004_76 outside Monthly Nutrient Climatology polygons
+TEM2004004_77: Test 3.6 -> Profile TEM2004004_77 outside TS Monthly Climatology polygons
+TEM2004004_77: Test 3.6 -> Profile TEM2004004_77 outside Monthly Nutrient Climatology polygons
+TEM2004004_78: Test 3.6 -> Profile TEM2004004_78 outside TS Monthly Climatology polygons
+TEM2004004_78: Test 3.6 -> Profile TEM2004004_78 outside Monthly Nutrient Climatology polygons
+TEM2004004_79: Test 3.6 -> Profile TEM2004004_79 outside TS Monthly Climatology polygons
+TEM2004004_79: Test 3.6 -> Profile TEM2004004_79 outside Monthly Nutrient Climatology polygons
+TEM2004004_80: Test 3.6 -> Profile TEM2004004_80 outside TS Monthly Climatology polygons
+TEM2004004_80: Test 3.6 -> Profile TEM2004004_80 outside Monthly Nutrient Climatology polygons
+TEM2004004_81: Test 3.6 -> Profile TEM2004004_81 outside TS Monthly Climatology polygons
+TEM2004004_81: Test 3.6 -> Profile TEM2004004_81 outside Monthly Nutrient Climatology polygons
+TEM2004004_82: Test 3.6 -> Profile TEM2004004_82 outside TS Monthly Climatology polygons
+TEM2004004_82: Test 3.6 -> Profile TEM2004004_82 outside Monthly Nutrient Climatology polygons
+TEM2004004_83: Test 3.6 -> Profile TEM2004004_83 outside TS Monthly Climatology polygons
+TEM2004004_83: Test 3.6 -> Profile TEM2004004_83 outside Monthly Nutrient Climatology polygons
+TEM2004004_84: Test 3.6 -> Profile TEM2004004_84 outside TS Monthly Climatology polygons
+TEM2004004_84: Test 3.6 -> Profile TEM2004004_84 outside Monthly Nutrient Climatology polygons
+TEM2004004_85: Test 3.6 -> Profile TEM2004004_85 outside TS Monthly Climatology polygons
+TEM2004004_85: Test 3.6 -> Profile TEM2004004_85 outside Monthly Nutrient Climatology polygons
+TEM2004004_86: Test 3.6 -> Profile TEM2004004_86 outside TS Monthly Climatology polygons
+TEM2004004_86: Test 3.6 -> Profile TEM2004004_86 outside Monthly Nutrient Climatology polygons
+TEM2004004_87: Test 3.6 -> Profile TEM2004004_87 outside TS Monthly Climatology polygons
+TEM2004004_87: Test 3.6 -> Profile TEM2004004_87 outside Monthly Nutrient Climatology polygons
+TEM2004004_88: Test 3.6 -> Profile TEM2004004_88 outside TS Monthly Climatology polygons
+TEM2004004_88: Test 3.6 -> Profile TEM2004004_88 outside Monthly Nutrient Climatology polygons

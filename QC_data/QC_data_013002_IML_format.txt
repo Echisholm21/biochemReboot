@@ -1,0 +1,33 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+NED2013002_1; 163.00; 383642; psal; 34.25; Bottle-CTD Difference Problem
+NED2013002_1; 163.00; 383642; doxy; 3.88; Bottle-CTD Difference Problem
+NED2013002_8; 85.00; 383658; psal; 35.89; Bottle-CTD Difference Problem
+NED2013002_11; 8.00; 383663; cphl; 0.66  ; Constant profile problem
+NED2013002_11; 72.00; 383662; cphl; 0.66  ; Constant profile problem
+NED2013002_21; 4.00; 383673; doxy; 6.96; Bottle-CTD Difference Problem
+NED2013002_23; 4.00; 383675; doxy; 6.96; Bottle-CTD Difference Problem
+NED2013002_26; 172.00; 383676; slca; 15.49  ; Out of Nutrient Climatology in box(es) 2 (Min=4.16 Max=15.49 n=15)
+NED2013002_29; 4.00; 383679; doxy; 6.78; Bottle-CTD Difference Problem
+NED2013002_30; 5.00; 383681; doxy; 6.62; Bottle-CTD Difference Problem
+NED2013002_30; 84.00; 383680; doxy; 6.57; Bottle-CTD Difference Problem
+NED2013002_35; 5.00; 383689; cphl; 0.91  ; Constant profile problem
+NED2013002_35; 63.00; 383688; cphl; 0.91  ; Constant profile problem
+NED2013002_43; 6.00; 383697; doxy; 6.62; Bottle-CTD Difference Problem
+NED2013002_79; 6.00; 383743; doxy; 7.14; Bottle-CTD Difference Problem
+NED2013002_79; 41.00; 383742; doxy; 7.19; Bottle-CTD Difference Problem
+NED2013002_81; 6.00; 383745; doxy; 7.03; Bottle-CTD Difference Problem
+NED2013002_81; 63.00; 383744; doxy; 6.97; Bottle-CTD Difference Problem
+NED2013002_88; 6.00; 383753; cphl; 1.48  ; Constant profile problem
+NED2013002_88; 134.00; 383752; cphl; 1.48  ; Constant profile problem
+NED2013002_88; 6.00; 383753; doxy; 6.77; Bottle-CTD Difference Problem
+NED2013002_89; 6.00; 383755; doxy; 7.09; Bottle-CTD Difference Problem
+NED2013002_89; 156.00; 383754; doxy; 6.98; Bottle-CTD Difference Problem
+NED2013002_90; 6.00; 383757; cphl; 3.56  ; Constant profile problem
+NED2013002_90; 165.00; 383756; cphl; 3.56  ; Constant profile problem
+NED2013002_90; 6.00; 383757; doxy; 7.02; Bottle-CTD Difference Problem
+NED2013002_90; 165.00; 383756; doxy; 6.85; Bottle-CTD Difference Problem
+NED2013002_91; 5.00; 383759; doxy; 7.31; Bottle-CTD Difference Problem
+NED2013002_91; 58.00; 383758; doxy; 7.26; Bottle-CTD Difference Problem
+NED2013002_94; 6.00; 383765; doxy; 6.76; Bottle-CTD Difference Problem
+NED2013002_105; 6.00; 383769; cphl; 0.66  ; Constant profile problem
+NED2013002_105; 67.00; 383768; cphl; 0.66  ; Constant profile problem

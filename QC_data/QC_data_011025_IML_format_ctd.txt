@@ -1,0 +1,102 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+NED2011025_1; 3.00; 353108; doxy; 11.73  ; Global Impossible Parameter Value
+NED2011025_1; 5.00; 353107; doxy; 11.70  ; Global Impossible Parameter Value
+NED2011025_1; 10.00; 353106; doxy; 11.02  ; Global Impossible Parameter Value
+NED2011025_1; 20.00; 353105; doxy; 11.77  ; Global Impossible Parameter Value
+NED2011025_1; 31.00; 353104; doxy; 12.25  ; Global Impossible Parameter Value
+NED2011025_1; 40.00; 353103; doxy; 11.98  ; Global Impossible Parameter Value
+NED2011025_1; 49.00; 353102; doxy; 11.70  ; Global Impossible Parameter Value
+NED2011025_1; 74.00; 353101; doxy; 12.03  ; Global Impossible Parameter Value
+NED2011025_1; 99.00; 353100; doxy; 12.47  ; Global Impossible Parameter Value
+NED2011025_1; 3.00; 353108; doxy; 11.73  ; Regional Impossible Parameter Value
+NED2011025_1; 5.00; 353107; doxy; 11.70  ; Regional Impossible Parameter Value
+NED2011025_1; 10.00; 353106; doxy; 11.02  ; Regional Impossible Parameter Value
+NED2011025_1; 20.00; 353105; doxy; 11.77  ; Regional Impossible Parameter Value
+NED2011025_1; 31.00; 353104; doxy; 12.25  ; Regional Impossible Parameter Value
+NED2011025_1; 40.00; 353103; doxy; 11.98  ; Regional Impossible Parameter Value
+NED2011025_1; 49.00; 353102; doxy; 11.70  ; Regional Impossible Parameter Value
+NED2011025_1; 74.00; 353101; doxy; 12.03  ; Regional Impossible Parameter Value
+NED2011025_1; 99.00; 353100; doxy; 12.47  ; Regional Impossible Parameter Value
+NED2011025_1; 154.00; 353099; doxy; 9.39; Impossible Parameter Value in Profile
+NED2011025_3; 5.00; 353112; doxy; 12.78  ; Global Impossible Parameter Value
+NED2011025_3; 24.00; 353111; doxy; 13.38  ; Global Impossible Parameter Value
+NED2011025_3; 50.00; 353110; doxy; 13.96  ; Global Impossible Parameter Value
+NED2011025_3; 5.00; 353112; doxy; 12.78  ; Regional Impossible Parameter Value
+NED2011025_3; 24.00; 353111; doxy; 13.38  ; Regional Impossible Parameter Value
+NED2011025_3; 50.00; 353110; doxy; 13.96  ; Regional Impossible Parameter Value
+NED2011025_4; 25.00; 353115; doxy; 14.28  ; Global Impossible Parameter Value
+NED2011025_4; 49.00; 353114; doxy; 14.82  ; Global Impossible Parameter Value
+NED2011025_4; 25.00; 353115; doxy; 14.28  ; Regional Impossible Parameter Value
+NED2011025_4; 49.00; 353114; doxy; 14.82  ; Regional Impossible Parameter Value
+NED2011025_4; 270.00; 353113; doxy; 10.19  ; Regional Impossible Parameter Value
+NED2011025_5; 24.00; 353119; doxy; 11.15  ; Global Impossible Parameter Value
+NED2011025_5; 49.00; 353118; doxy; 17.38  ; Global Impossible Parameter Value
+NED2011025_5; 24.00; 353119; doxy; 11.15  ; Regional Impossible Parameter Value
+NED2011025_5; 49.00; 353118; doxy; 17.38  ; Regional Impossible Parameter Value
+NED2011025_5; 243.00; 353117; doxy; 8.50; Impossible Parameter Value in Profile
+NED2011025_6; 50.00; 353123; doxy; 12.67  ; Global Impossible Parameter Value
+NED2011025_6; 50.00; 353123; doxy; 12.67  ; Regional Impossible Parameter Value
+NED2011025_6; 100.00; 353122; doxy; 9.51; Impossible Parameter Value in Profile
+NED2011025_6; 181.00; 353121; doxy; 9.02; Impossible Parameter Value in Profile
+NED2011025_7; 25.00; 353127; doxy; 10.22  ; Regional Impossible Parameter Value
+NED2011025_7; 50.00; 353126; doxy; 9.56; Impossible Parameter Value in Profile
+NED2011025_8; 49.00; 353130; doxy; 12.65  ; Global Impossible Parameter Value
+NED2011025_8; 25.00; 353131; doxy; 10.57  ; Regional Impossible Parameter Value
+NED2011025_8; 49.00; 353130; doxy; 12.65  ; Regional Impossible Parameter Value
+NED2011025_8; 93.00; 353129; doxy; 9.87; Impossible Parameter Value in Profile
+NED2011025_10; 50.00; 353134; doxy; 9.17; Impossible Parameter Value in Profile
+NED2011025_12; -5 to 5 m; NaN; psal; 30.16  ; Out of TS Climatology by more than 3*std in box(es) 17 (31.13 ± 0.81)
+NED2011025_14; -5 to 5 m; NaN; psal; 30.09  ; Out of TS Climatology by more than 3*std in box(es) 19 (31.23 ± 0.81)
+NED2011025_23; -5 to 5 m; NaN; psal; 30.87  ; Out of TS Climatology by more than 3*std in box(es) 22 (31.82 ± 0.84)
+NED2011025_23; 15 to 25 m; NaN; psal; 31.26  ; Out of TS Climatology by more than 3*std in box(es) 22 (32.02 ± 0.72)
+NED2011025_23; 45 to 55 m; NaN; psal; 31.70  ; Out of TS Climatology by more than 3*std in box(es) 22 (32.58 ± 0.66)
+NED2011025_27; 5 to 15 m; NaN; psal; 31.10  ; Out of TS Climatology by more than 3*std in box(es) 22 (31.91 ± 0.69)
+NED2011025_27; 15 to 25 m; NaN; psal; 31.25  ; Out of TS Climatology by more than 3*std in box(es) 22 (32.02 ± 0.72)
+NED2011025_29; 45 to 55 m; NaN; psal; 31.79  ; Out of TS Climatology by more than 3*std in box(es) 22 (32.58 ± 0.66)
+NED2011025_31; 45 to 55 m; NaN; psal; 31.82  ; Out of TS Climatology by more than 3*std in box(es) 22 (32.58 ± 0.66)
+NED2011025_39; 45 to 55 m; NaN; temp; 12.09  ; Out of TS Climatology by more than 3*std in box(es) 23 (6.70 ± 3.36)
+NED2011025_45; -5 to 5 m; NaN; psal; 31.40  ; Out of TS Climatology by more than 3*std in box(es) 25 (32.34 ± 0.75)
+NED2011025_46; -5 to 5 m; NaN; psal; 31.35  ; Out of TS Climatology by more than 3*std in box(es) 25 (32.34 ± 0.75)
+NED2011025_46; 15 to 25 m; NaN; psal; 31.56  ; Out of TS Climatology by more than 3*std in box(es) 25 (32.43 ± 0.81)
+NED2011025_47; -5 to 5 m; NaN; psal; 31.12  ; Out of TS Climatology by more than 3*std in box(es) 24 (32.19 ± 0.84)
+NED2011025_47; 15 to 25 m; NaN; psal; 31.35  ; Out of TS Climatology by more than 3*std in box(es) 24 (32.29 ± 0.75)
+NED2011025_47; 45 to 55 m; NaN; psal; 31.62  ; Out of TS Climatology by more than 3*std in box(es) 24 (32.52 ± 0.75)
+NED2011025_49; -5 to 5 m; NaN; psal; 31.30  ; Out of TS Climatology by more than 3*std in box(es) 24, 25, 53 (32.19 ± 0.84)
+NED2011025_64; -5 to 5 m; NaN; psal; 29.84  ; Out of TS Climatology by more than 3*std in box(es) 55 (31.63 ± 1.38)
+NED2011025_66; 45 to 55 m; NaN; psal; 31.68  ; Out of TS Climatology by more than 3*std in box(es) 54, 55 (32.44 ± 0.75)
+NED2011025_67; 90 to 110 m; NaN; psal; 31.95  ; Out of TS Climatology by more than 3*std in box(es) 54 (32.76 ± 0.69)
+NED2011025_71; 45 to 55 m; NaN; psal; 31.48  ; Out of TS Climatology by more than 3*std in box(es) 54 (32.44 ± 0.75)
+NED2011025_71; 90 to 110 m; NaN; psal; 31.73  ; Out of TS Climatology by more than 3*std in box(es) 54 (32.76 ± 0.69)
+NED2011025_88; 15 to 25 m; NaN; psal; 31.81  ; Out of TS Climatology by more than 3*std in box(es) 28 (32.46 ± 0.63)
+NED2011025_95; 15 to 25 m; NaN; psal; 33.81  ; Out of TS Climatology by more than 3*std in box(es) 36 (32.53 ± 0.63)
+NED2011025_95; 45 to 55 m; NaN; psal; 34.16  ; Out of TS Climatology by more than 3*std in box(es) 36 (32.74 ± 0.42)
+NED2011025_103; 25 to 35 m; NaN; psal; 31.68  ; Out of TS Climatology by more than 3*std in box(es) 30 (33.69 ± 1.86)
+NED2011025_104; 5 to 15 m; NaN; psal; 30.86  ; Out of TS Climatology by more than 3*std in box(es) 22 (31.91 ± 0.69)
+NED2011025_104; 15 to 25 m; NaN; psal; 30.96  ; Out of TS Climatology by more than 3*std in box(es) 22 (32.02 ± 0.72)
+NED2011025_104; 45 to 55 m; NaN; psal; 31.76  ; Out of TS Climatology by more than 3*std in box(es) 22 (32.58 ± 0.66)
+NED2011025_120; 15 to 25 m; NaN; psal; 34.89  ; Out of TS Climatology by more than 3*std in box(es) 12 (31.70 ± 0.90)
+NED2011025_120; 45 to 55 m; NaN; psal; 33.73  ; Out of TS Climatology by more than 3*std in box(es) 12 (32.57 ± 0.75)
+NED2011025_131; 25 to 35 m; NaN; temp; 12.76  ; Out of TS Climatology by more than 3*std in box(es) 10 (7.54 ± 3.54)
+NED2011025_137; 15 to 25 m; NaN; temp; 5.48  ; Out of TS Climatology by more than 3*std in box(es) 10 (10.40 ± 4.14)
+NED2011025_138; 15 to 25 m; NaN; temp; 6.04  ; Out of TS Climatology by more than 3*std in box(es) 10 (10.40 ± 4.14)
+NED2011025_141; 15 to 25 m; NaN; temp; 5.04  ; Out of TS Climatology by more than 3*std in box(es) 9 (10.63 ± 5.55)
+NED2011025_143; 190 to 210 m; NaN; psal; 33.49  ; Out of TS Climatology by more than 3*std in box(es) 8 (34.42 ± 0.27)
+NED2011025_172; 5 to 15 m; NaN; psal; 30.31  ; Out of TS Climatology by more than 3*std in box(es) 12 (31.20 ± 0.84)
+NED2011025_176; 15 to 25 m; NaN; psal; 30.31  ; Out of TS Climatology by more than 3*std in box(es) 7 (31.36 ± 0.96)
+NED2011025_185; 25 to 35 m; NaN; psal; 30.78  ; Out of TS Climatology by more than 3*std in box(es) 5 (31.52 ± 0.69)
+NED2011025_186; 25 to 35 m; NaN; psal; 30.78  ; Out of TS Climatology by more than 3*std in box(es) 5 (31.52 ± 0.69)
+NED2011025_208; 15 to 25 m; NaN; psal; 31.86  ; Out of TS Climatology by more than 3*std in box(es) 6 (31.05 ± 0.78)
+NED2011025_210; 15 to 25 m; NaN; temp; 3.41  ; Out of TS Climatology by more than 3*std in box(es) 5 (12.11 ± 7.11)
+NED2011025_212; 15 to 25 m; NaN; temp; 4.35  ; Out of TS Climatology by more than 3*std in box(es) 5 (12.11 ± 7.11)
+NED2011025_215; 15 to 25 m; NaN; temp; 4.75  ; Out of TS Climatology by more than 3*std in box(es) 5 (12.11 ± 7.11)
+NED2011025_216; 15 to 25 m; NaN; temp; 4.82  ; Out of TS Climatology by more than 3*std in box(es) 5 (12.11 ± 7.11)
+NED2011025_218; 15 to 25 m; NaN; temp; 4.65  ; Out of TS Climatology by more than 3*std in box(es) 5 (12.11 ± 7.11)
+NED2011025_233; 15 to 25 m; NaN; psal; 32.74  ; Out of TS Climatology by more than 3*std in box(es) 4 (31.59 ± 0.99)
+NED2011025_241; 240 to 260 m; NaN; psal; 33.00  ; Out of TS Climatology by more than 3*std in box(es) 5 (33.44 ± 0.36)
+NED2011025_247; 15 to 25 m; NaN; temp; 4.28  ; Out of TS Climatology by more than 3*std in box(es) 5 (12.11 ± 7.11)
+NED2011025_256; 15 to 25 m; NaN; temp; 3.61  ; Out of TS Climatology by more than 3*std in box(es) 4 (10.86 ± 6.60)
+NED2011025_257; 15 to 25 m; NaN; psal; 33.05  ; Out of TS Climatology by more than 3*std in box(es) 4 (31.59 ± 0.99)
+NED2011025_268; -5 to 5 m; NaN; psal; 32.52  ; Out of TS Climatology by more than 3*std in box(es) 9 (31.34 ± 0.96)
+NED2011025_268; 45 to 55 m; NaN; psal; 32.81  ; Out of TS Climatology by more than 3*std in box(es) 9 (32.46 ± 0.33)
+NED2011025_270; -5 to 5 m; NaN; psal; 32.99  ; Out of TS Climatology by more than 3*std in box(es) 9 (31.34 ± 0.96)
+NED2011025_270; 45 to 55 m; NaN; psal; 32.92  ; Out of TS Climatology by more than 3*std in box(es) 9 (32.46 ± 0.33)

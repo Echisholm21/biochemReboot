@@ -1,0 +1,9 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+NED2003002_9; 74.00; 244874; doxy; -999.99  ; Global Impossible Parameter Value
+NED2003002_9; 74.00; 244874; doxy; -999.99  ; Regional Impossible Parameter Value
+NED2003002_16; 101.00; 244887; doxy; -999.99  ; Global Impossible Parameter Value
+NED2003002_16; 101.00; 244887; doxy; -999.99  ; Regional Impossible Parameter Value
+NED2003002_60; 93.00; 245363; doxy; -999.99  ; Global Impossible Parameter Value
+NED2003002_60; 93.00; 245363; doxy; -999.99  ; Regional Impossible Parameter Value
+NED2003002_66; 162.00; 245375; doxy; -999.99  ; Global Impossible Parameter Value
+NED2003002_66; 162.00; 245375; doxy; -999.99  ; Regional Impossible Parameter Value

@@ -1,0 +1,6 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+TEL2006614_25; 3.00; 287666; psal; 32.74  ; Constant profile problem
+TEL2006614_25; 5.00; 287665; psal; 32.74  ; Constant profile problem
+TEL2006614_25; 73.00; 287664; psal; 32.74  ; Constant profile problem
+TEL2006614_60; 2.00 to 5.00; 287719, 287718; psal; 33.30  32.85  ; Gradient or Inversion too high
+TEL2006614_85; 90 to 110 m; NaN; psal; 32.74  ; Out of TS Climatology by more than 3*std in box(es) 40 (33.23 ± 0.45)

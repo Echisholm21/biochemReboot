@@ -1,0 +1,306 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of NED2003002_60 and the beginning of NED2003002_47 (found ship velocity is 45.8 kt)
+    the end of NED2003002_62 and the beginning of NED2003002_72 (found ship velocity is 37.2 kt)
+    the end of NED2003002_97 and the beginning of NED2003002_98 (found ship velocity is 52.6 kt)
+Test 1.6 -> No known depth for NED2003002_0
+Test 1.6 -> No known depth for NED2003002_3
+Test 1.6 -> No known depth for NED2003002_4
+Test 1.6 -> No known depth for NED2003002_5
+Test 1.6 -> No known depth for NED2003002_6
+Test 1.6 -> No known depth for NED2003002_7
+Test 1.6 -> No known depth for NED2003002_8
+Test 1.6 -> No known depth for NED2003002_9
+Test 1.6 -> No known depth for NED2003002_10
+Test 1.6 -> No known depth for NED2003002_11
+Test 1.6 -> No known depth for NED2003002_12
+Test 1.6 -> No known depth for NED2003002_13
+Test 1.6 -> No known depth for NED2003002_14
+Test 1.6 -> No known depth for NED2003002_15
+Test 1.6 -> No known depth for NED2003002_16
+Test 1.6 -> No known depth for NED2003002_17
+Test 1.6 -> No known depth for NED2003002_18
+Test 1.6 -> No known depth for NED2003002_19
+Test 1.6 -> No known depth for NED2003002_20
+Test 1.6 -> No known depth for NED2003002_21
+Test 1.6 -> No known depth for NED2003002_22
+Test 1.6 -> No known depth for NED2003002_23
+Test 1.6 -> No known depth for NED2003002_24
+Test 1.6 -> No known depth for NED2003002_25
+Test 1.6 -> No known depth for NED2003002_26
+Test 1.6 -> No known depth for NED2003002_27
+Test 1.6 -> No known depth for NED2003002_28
+Test 1.6 -> No known depth for NED2003002_29
+Test 1.6 -> No known depth for NED2003002_30
+Test 1.6 -> No known depth for NED2003002_31
+Test 1.6 -> No known depth for NED2003002_32
+Test 1.6 -> No known depth for NED2003002_33
+Test 1.6 -> No known depth for NED2003002_34
+Test 1.6 -> No known depth for NED2003002_35
+Test 1.6 -> No known depth for NED2003002_36
+Test 1.6 -> No known depth for NED2003002_37
+Test 1.6 -> No known depth for NED2003002_38
+Test 1.6 -> No known depth for NED2003002_39
+Test 1.6 -> No known depth for NED2003002_40
+Test 1.6 -> No known depth for NED2003002_41
+Test 1.6 -> No known depth for NED2003002_42
+Test 1.6 -> No known depth for NED2003002_43
+Test 1.6 -> No known depth for NED2003002_44
+Test 1.6 -> No known depth for NED2003002_45
+Test 1.6 -> No known depth for NED2003002_46
+Test 1.6 -> No known depth for NED2003002_50
+Test 1.6 -> No known depth for NED2003002_51
+Test 1.6 -> No known depth for NED2003002_52
+Test 1.6 -> No known depth for NED2003002_53
+Test 1.6 -> No known depth for NED2003002_54
+Test 1.6 -> No known depth for NED2003002_55
+Test 1.6 -> No known depth for NED2003002_56
+Test 1.6 -> No known depth for NED2003002_57
+Test 1.6 -> No known depth for NED2003002_58
+Test 1.6 -> No known depth for NED2003002_59
+Test 1.6 -> No known depth for NED2003002_60
+Test 1.6 -> No known depth for NED2003002_47
+Test 1.6 -> No known depth for NED2003002_48
+Test 1.6 -> No known depth for NED2003002_49
+Test 1.6 -> No known depth for NED2003002_63
+Test 1.6 -> No known depth for NED2003002_64
+Test 1.6 -> No known depth for NED2003002_65
+Test 1.6 -> No known depth for NED2003002_66
+Test 1.6 -> No known depth for NED2003002_67
+Test 1.6 -> No known depth for NED2003002_61
+Test 1.6 -> No known depth for NED2003002_62
+Test 1.6 -> No known depth for NED2003002_72
+Test 1.6 -> No known depth for NED2003002_68
+Test 1.6 -> No known depth for NED2003002_69
+Test 1.6 -> No known depth for NED2003002_70
+Test 1.6 -> No known depth for NED2003002_71
+Test 1.6 -> No known depth for NED2003002_73
+Test 1.6 -> No known depth for NED2003002_74
+Test 1.6 -> No known depth for NED2003002_75
+Test 1.6 -> No known depth for NED2003002_76
+Test 1.6 -> No known depth for NED2003002_77
+Test 1.6 -> No known depth for NED2003002_78
+Test 1.6 -> No known depth for NED2003002_79
+Test 1.6 -> No known depth for NED2003002_80
+Test 1.6 -> No known depth for NED2003002_81
+Test 1.6 -> No known depth for NED2003002_82
+Test 1.6 -> No known depth for NED2003002_83
+Test 1.6 -> No known depth for NED2003002_84
+Test 1.6 -> No known depth for NED2003002_85
+Test 1.6 -> No known depth for NED2003002_86
+Test 1.6 -> No known depth for NED2003002_87
+Test 1.6 -> No known depth for NED2003002_88
+Test 1.6 -> No known depth for NED2003002_89
+Test 1.6 -> No known depth for NED2003002_90
+Test 1.6 -> No known depth for NED2003002_91
+Test 1.6 -> No known depth for NED2003002_92
+Test 1.6 -> No known depth for NED2003002_93
+Test 1.6 -> No known depth for NED2003002_94
+Test 1.6 -> No known depth for NED2003002_95
+Test 1.6 -> No known depth for NED2003002_96
+Test 1.6 -> No known depth for NED2003002_97
+Test 1.6 -> No known depth for NED2003002_98
+Test 1.6 -> No known depth for NED2003002_99
+NED2003002_0: Test 3.6 -> Profile NED2003002_0 outside TS Monthly Climatology polygons
+NED2003002_0: Test 3.6 -> Profile NED2003002_0 outside Monthly Nutrient Climatology polygons
+NED2003002_3: Test 3.6 -> Profile NED2003002_3 outside TS Monthly Climatology polygons
+NED2003002_3: Test 3.6 -> Profile NED2003002_3 outside Monthly Nutrient Climatology polygons
+NED2003002_4: Test 3.6 -> Profile NED2003002_4 outside TS Monthly Climatology polygons
+NED2003002_4: Test 3.6 -> Profile NED2003002_4 outside Monthly Nutrient Climatology polygons
+NED2003002_5: Test 3.6 -> Profile NED2003002_5 outside TS Monthly Climatology polygons
+NED2003002_5: Test 3.6 -> Profile NED2003002_5 outside Monthly Nutrient Climatology polygons
+NED2003002_6: Test 3.6 -> Profile NED2003002_6 outside TS Monthly Climatology polygons
+NED2003002_6: Test 3.6 -> Profile NED2003002_6 outside Monthly Nutrient Climatology polygons
+NED2003002_7: Test 3.6 -> Profile NED2003002_7 outside TS Monthly Climatology polygons
+NED2003002_7: Test 3.6 -> Profile NED2003002_7 outside Monthly Nutrient Climatology polygons
+NED2003002_8: Test 3.6 -> Profile NED2003002_8 outside TS Monthly Climatology polygons
+NED2003002_8: Test 3.6 -> Profile NED2003002_8 outside Monthly Nutrient Climatology polygons
+NED2003002_9: Test 2.1 -> Global Impossible Parameter Value for doxy
+NED2003002_9: Test 2.2 -> Regional Impossible Parameter Value for doxy
+NED2003002_9: Test 3.6 -> Profile NED2003002_9 outside TS Monthly Climatology polygons
+NED2003002_9: Test 3.6 -> Profile NED2003002_9 outside Monthly Nutrient Climatology polygons
+NED2003002_10: Test 3.6 -> Profile NED2003002_10 outside TS Monthly Climatology polygons
+NED2003002_10: Test 3.6 -> Profile NED2003002_10 outside Monthly Nutrient Climatology polygons
+NED2003002_11: Test 3.6 -> Profile NED2003002_11 outside TS Monthly Climatology polygons
+NED2003002_11: Test 3.6 -> Profile NED2003002_11 outside Monthly Nutrient Climatology polygons
+NED2003002_12: Test 3.6 -> Profile NED2003002_12 outside TS Monthly Climatology polygons
+NED2003002_12: Test 3.6 -> Profile NED2003002_12 outside Monthly Nutrient Climatology polygons
+NED2003002_13: Test 3.6 -> Profile NED2003002_13 outside TS Monthly Climatology polygons
+NED2003002_13: Test 3.6 -> Profile NED2003002_13 outside Monthly Nutrient Climatology polygons
+NED2003002_14: Test 3.6 -> Profile NED2003002_14 outside TS Monthly Climatology polygons
+NED2003002_14: Test 3.6 -> Profile NED2003002_14 outside Monthly Nutrient Climatology polygons
+NED2003002_15: Test 3.6 -> Profile NED2003002_15 outside TS Monthly Climatology polygons
+NED2003002_15: Test 3.6 -> Profile NED2003002_15 outside Monthly Nutrient Climatology polygons
+NED2003002_16: Test 2.1 -> Global Impossible Parameter Value for doxy
+NED2003002_16: Test 2.2 -> Regional Impossible Parameter Value for doxy
+NED2003002_16: Test 3.6 -> Profile NED2003002_16 outside TS Monthly Climatology polygons
+NED2003002_16: Test 3.6 -> Profile NED2003002_16 outside Monthly Nutrient Climatology polygons
+NED2003002_17: Test 3.6 -> Profile NED2003002_17 outside TS Monthly Climatology polygons
+NED2003002_17: Test 3.6 -> Profile NED2003002_17 outside Monthly Nutrient Climatology polygons
+NED2003002_18: Test 3.6 -> Profile NED2003002_18 outside TS Monthly Climatology polygons
+NED2003002_18: Test 3.6 -> Profile NED2003002_18 outside Monthly Nutrient Climatology polygons
+NED2003002_19: Test 3.6 -> Profile NED2003002_19 outside TS Monthly Climatology polygons
+NED2003002_19: Test 3.6 -> Profile NED2003002_19 outside Monthly Nutrient Climatology polygons
+NED2003002_20: Test 3.6 -> Profile NED2003002_20 outside TS Monthly Climatology polygons
+NED2003002_20: Test 3.6 -> Profile NED2003002_20 outside Monthly Nutrient Climatology polygons
+NED2003002_21: Test 3.6 -> Profile NED2003002_21 outside TS Monthly Climatology polygons
+NED2003002_21: Test 3.6 -> Profile NED2003002_21 outside Monthly Nutrient Climatology polygons
+NED2003002_22: Test 3.6 -> Profile NED2003002_22 outside TS Monthly Climatology polygons
+NED2003002_22: Test 3.6 -> Profile NED2003002_22 outside Monthly Nutrient Climatology polygons
+NED2003002_23: Test 3.6 -> Profile NED2003002_23 outside TS Monthly Climatology polygons
+NED2003002_23: Test 3.6 -> Profile NED2003002_23 outside Monthly Nutrient Climatology polygons
+NED2003002_24: Test 3.6 -> Profile NED2003002_24 outside TS Monthly Climatology polygons
+NED2003002_24: Test 3.6 -> Profile NED2003002_24 outside Monthly Nutrient Climatology polygons
+NED2003002_25: Test 3.6 -> Profile NED2003002_25 outside TS Monthly Climatology polygons
+NED2003002_25: Test 3.6 -> Profile NED2003002_25 outside Monthly Nutrient Climatology polygons
+NED2003002_26: Test 3.6 -> Profile NED2003002_26 outside TS Monthly Climatology polygons
+NED2003002_26: Test 3.6 -> Profile NED2003002_26 outside Monthly Nutrient Climatology polygons
+NED2003002_27: Test 3.6 -> Profile NED2003002_27 outside TS Monthly Climatology polygons
+NED2003002_27: Test 3.6 -> Profile NED2003002_27 outside Monthly Nutrient Climatology polygons
+NED2003002_28: Test 3.6 -> Profile NED2003002_28 outside TS Monthly Climatology polygons
+NED2003002_28: Test 3.6 -> Profile NED2003002_28 outside Monthly Nutrient Climatology polygons
+NED2003002_29: Test 3.6 -> Profile NED2003002_29 outside TS Monthly Climatology polygons
+NED2003002_29: Test 3.6 -> Profile NED2003002_29 outside Monthly Nutrient Climatology polygons
+NED2003002_30: Test 3.6 -> Profile NED2003002_30 outside TS Monthly Climatology polygons
+NED2003002_30: Test 3.6 -> Profile NED2003002_30 outside Monthly Nutrient Climatology polygons
+NED2003002_31: Test 3.6 -> Profile NED2003002_31 outside TS Monthly Climatology polygons
+NED2003002_31: Test 3.6 -> Profile NED2003002_31 outside Monthly Nutrient Climatology polygons
+NED2003002_32: Test 3.6 -> Profile NED2003002_32 outside TS Monthly Climatology polygons
+NED2003002_32: Test 3.6 -> Profile NED2003002_32 outside Monthly Nutrient Climatology polygons
+NED2003002_33: Test 3.6 -> Profile NED2003002_33 outside TS Monthly Climatology polygons
+NED2003002_33: Test 3.6 -> Profile NED2003002_33 outside Monthly Nutrient Climatology polygons
+NED2003002_34: Test 3.6 -> Profile NED2003002_34 outside TS Monthly Climatology polygons
+NED2003002_34: Test 3.6 -> Profile NED2003002_34 outside Monthly Nutrient Climatology polygons
+NED2003002_35: Test 3.6 -> Profile NED2003002_35 outside TS Monthly Climatology polygons
+NED2003002_35: Test 3.6 -> Profile NED2003002_35 outside Monthly Nutrient Climatology polygons
+NED2003002_36: Test 3.6 -> Profile NED2003002_36 outside TS Monthly Climatology polygons
+NED2003002_36: Test 3.6 -> Profile NED2003002_36 outside Monthly Nutrient Climatology polygons
+NED2003002_37: Test 3.6 -> Profile NED2003002_37 outside TS Monthly Climatology polygons
+NED2003002_37: Test 3.6 -> Profile NED2003002_37 outside Monthly Nutrient Climatology polygons
+NED2003002_38: Test 3.6 -> Profile NED2003002_38 outside TS Monthly Climatology polygons
+NED2003002_38: Test 3.6 -> Profile NED2003002_38 outside Monthly Nutrient Climatology polygons
+NED2003002_39: Test 3.6 -> Profile NED2003002_39 outside TS Monthly Climatology polygons
+NED2003002_39: Test 3.6 -> Profile NED2003002_39 outside Monthly Nutrient Climatology polygons
+NED2003002_40: Test 3.6 -> Profile NED2003002_40 outside TS Monthly Climatology polygons
+NED2003002_40: Test 3.6 -> Profile NED2003002_40 outside Monthly Nutrient Climatology polygons
+NED2003002_41: Test 3.6 -> Profile NED2003002_41 outside TS Monthly Climatology polygons
+NED2003002_41: Test 3.6 -> Profile NED2003002_41 outside Monthly Nutrient Climatology polygons
+NED2003002_42: Test 3.6 -> Profile NED2003002_42 outside TS Monthly Climatology polygons
+NED2003002_42: Test 3.6 -> Profile NED2003002_42 outside Monthly Nutrient Climatology polygons
+NED2003002_43: Test 3.6 -> Profile NED2003002_43 outside TS Monthly Climatology polygons
+NED2003002_43: Test 3.6 -> Profile NED2003002_43 outside Monthly Nutrient Climatology polygons
+NED2003002_44: Test 3.6 -> Profile NED2003002_44 outside TS Monthly Climatology polygons
+NED2003002_44: Test 3.6 -> Profile NED2003002_44 outside Monthly Nutrient Climatology polygons
+NED2003002_45: Test 3.6 -> Profile NED2003002_45 outside TS Monthly Climatology polygons
+NED2003002_45: Test 3.6 -> Profile NED2003002_45 outside Monthly Nutrient Climatology polygons
+NED2003002_46: Test 3.6 -> Profile NED2003002_46 outside TS Monthly Climatology polygons
+NED2003002_46: Test 3.6 -> Profile NED2003002_46 outside Monthly Nutrient Climatology polygons
+NED2003002_50: Test 3.6 -> Profile NED2003002_50 outside TS Monthly Climatology polygons
+NED2003002_50: Test 3.6 -> Profile NED2003002_50 outside Monthly Nutrient Climatology polygons
+NED2003002_51: Test 3.6 -> Profile NED2003002_51 outside TS Monthly Climatology polygons
+NED2003002_51: Test 3.6 -> Profile NED2003002_51 outside Monthly Nutrient Climatology polygons
+NED2003002_52: Test 3.6 -> Profile NED2003002_52 outside TS Monthly Climatology polygons
+NED2003002_52: Test 3.6 -> Profile NED2003002_52 outside Monthly Nutrient Climatology polygons
+NED2003002_53: Test 3.6 -> Profile NED2003002_53 outside TS Monthly Climatology polygons
+NED2003002_53: Test 3.6 -> Profile NED2003002_53 outside Monthly Nutrient Climatology polygons
+NED2003002_54: Test 3.6 -> Profile NED2003002_54 outside TS Monthly Climatology polygons
+NED2003002_54: Test 3.6 -> Profile NED2003002_54 outside Monthly Nutrient Climatology polygons
+NED2003002_55: Test 3.6 -> Profile NED2003002_55 outside TS Monthly Climatology polygons
+NED2003002_55: Test 3.6 -> Profile NED2003002_55 outside Monthly Nutrient Climatology polygons
+NED2003002_56: Test 3.6 -> Profile NED2003002_56 outside TS Monthly Climatology polygons
+NED2003002_56: Test 3.6 -> Profile NED2003002_56 outside Monthly Nutrient Climatology polygons
+NED2003002_57: Test 3.6 -> Profile NED2003002_57 outside TS Monthly Climatology polygons
+NED2003002_57: Test 3.6 -> Profile NED2003002_57 outside Monthly Nutrient Climatology polygons
+NED2003002_58: Test 3.6 -> Profile NED2003002_58 outside TS Monthly Climatology polygons
+NED2003002_58: Test 3.6 -> Profile NED2003002_58 outside Monthly Nutrient Climatology polygons
+NED2003002_59: Test 3.6 -> Profile NED2003002_59 outside TS Monthly Climatology polygons
+NED2003002_59: Test 3.6 -> Profile NED2003002_59 outside Monthly Nutrient Climatology polygons
+NED2003002_60: Test 2.1 -> Global Impossible Parameter Value for doxy
+NED2003002_60: Test 2.2 -> Regional Impossible Parameter Value for doxy
+NED2003002_60: Test 3.6 -> Profile NED2003002_60 outside TS Monthly Climatology polygons
+NED2003002_60: Test 3.6 -> Profile NED2003002_60 outside Monthly Nutrient Climatology polygons
+NED2003002_47: Test 3.6 -> Profile NED2003002_47 outside TS Monthly Climatology polygons
+NED2003002_47: Test 3.6 -> Profile NED2003002_47 outside Monthly Nutrient Climatology polygons
+NED2003002_48: Test 3.6 -> Profile NED2003002_48 outside TS Monthly Climatology polygons
+NED2003002_48: Test 3.6 -> Profile NED2003002_48 outside Monthly Nutrient Climatology polygons
+NED2003002_49: Test 3.6 -> Profile NED2003002_49 outside TS Monthly Climatology polygons
+NED2003002_49: Test 3.6 -> Profile NED2003002_49 outside Monthly Nutrient Climatology polygons
+NED2003002_63: Test 3.6 -> Profile NED2003002_63 outside TS Monthly Climatology polygons
+NED2003002_63: Test 3.6 -> Profile NED2003002_63 outside Monthly Nutrient Climatology polygons
+NED2003002_64: Test 3.6 -> Profile NED2003002_64 outside TS Monthly Climatology polygons
+NED2003002_64: Test 3.6 -> Profile NED2003002_64 outside Monthly Nutrient Climatology polygons
+NED2003002_65: Test 3.6 -> Profile NED2003002_65 outside TS Monthly Climatology polygons
+NED2003002_65: Test 3.6 -> Profile NED2003002_65 outside Monthly Nutrient Climatology polygons
+NED2003002_66: Test 2.1 -> Global Impossible Parameter Value for doxy
+NED2003002_66: Test 2.2 -> Regional Impossible Parameter Value for doxy
+NED2003002_66: Test 3.6 -> Profile NED2003002_66 outside TS Monthly Climatology polygons
+NED2003002_66: Test 3.6 -> Profile NED2003002_66 outside Monthly Nutrient Climatology polygons
+NED2003002_67: Test 3.6 -> Profile NED2003002_67 outside TS Monthly Climatology polygons
+NED2003002_67: Test 3.6 -> Profile NED2003002_67 outside Monthly Nutrient Climatology polygons
+NED2003002_61: Test 3.6 -> Profile NED2003002_61 outside TS Monthly Climatology polygons
+NED2003002_61: Test 3.6 -> Profile NED2003002_61 outside Monthly Nutrient Climatology polygons
+NED2003002_62: Test 3.6 -> Profile NED2003002_62 outside TS Monthly Climatology polygons
+NED2003002_62: Test 3.6 -> Profile NED2003002_62 outside Monthly Nutrient Climatology polygons
+NED2003002_72: Test 3.6 -> Profile NED2003002_72 outside TS Monthly Climatology polygons
+NED2003002_72: Test 3.6 -> Profile NED2003002_72 outside Monthly Nutrient Climatology polygons
+NED2003002_68: Test 3.6 -> Profile NED2003002_68 outside TS Monthly Climatology polygons
+NED2003002_68: Test 3.6 -> Profile NED2003002_68 outside Monthly Nutrient Climatology polygons
+NED2003002_69: Test 3.6 -> Profile NED2003002_69 outside TS Monthly Climatology polygons
+NED2003002_69: Test 3.6 -> Profile NED2003002_69 outside Monthly Nutrient Climatology polygons
+NED2003002_70: Test 3.6 -> Profile NED2003002_70 outside TS Monthly Climatology polygons
+NED2003002_70: Test 3.6 -> Profile NED2003002_70 outside Monthly Nutrient Climatology polygons
+NED2003002_71: Test 3.6 -> Profile NED2003002_71 outside TS Monthly Climatology polygons
+NED2003002_71: Test 3.6 -> Profile NED2003002_71 outside Monthly Nutrient Climatology polygons
+NED2003002_73: Test 3.6 -> Profile NED2003002_73 outside TS Monthly Climatology polygons
+NED2003002_73: Test 3.6 -> Profile NED2003002_73 outside Monthly Nutrient Climatology polygons
+NED2003002_74: Test 3.6 -> Profile NED2003002_74 outside TS Monthly Climatology polygons
+NED2003002_74: Test 3.6 -> Profile NED2003002_74 outside Monthly Nutrient Climatology polygons
+NED2003002_75: Test 3.6 -> Profile NED2003002_75 outside TS Monthly Climatology polygons
+NED2003002_75: Test 3.6 -> Profile NED2003002_75 outside Monthly Nutrient Climatology polygons
+NED2003002_76: Test 3.6 -> Profile NED2003002_76 outside TS Monthly Climatology polygons
+NED2003002_76: Test 3.6 -> Profile NED2003002_76 outside Monthly Nutrient Climatology polygons
+NED2003002_77: Test 3.6 -> Profile NED2003002_77 outside TS Monthly Climatology polygons
+NED2003002_77: Test 3.6 -> Profile NED2003002_77 outside Monthly Nutrient Climatology polygons
+NED2003002_78: Test 3.6 -> Profile NED2003002_78 outside TS Monthly Climatology polygons
+NED2003002_78: Test 3.6 -> Profile NED2003002_78 outside Monthly Nutrient Climatology polygons
+NED2003002_79: Test 3.6 -> Profile NED2003002_79 outside TS Monthly Climatology polygons
+NED2003002_79: Test 3.6 -> Profile NED2003002_79 outside Monthly Nutrient Climatology polygons
+NED2003002_80: Test 3.6 -> Profile NED2003002_80 outside TS Monthly Climatology polygons
+NED2003002_80: Test 3.6 -> Profile NED2003002_80 outside Monthly Nutrient Climatology polygons
+NED2003002_81: Test 3.6 -> Profile NED2003002_81 outside TS Monthly Climatology polygons
+NED2003002_81: Test 3.6 -> Profile NED2003002_81 outside Monthly Nutrient Climatology polygons
+NED2003002_82: Test 3.6 -> Profile NED2003002_82 outside TS Monthly Climatology polygons
+NED2003002_82: Test 3.6 -> Profile NED2003002_82 outside Monthly Nutrient Climatology polygons
+NED2003002_83: Test 3.6 -> Profile NED2003002_83 outside TS Monthly Climatology polygons
+NED2003002_83: Test 3.6 -> Profile NED2003002_83 outside Monthly Nutrient Climatology polygons
+NED2003002_84: Test 3.6 -> Profile NED2003002_84 outside TS Monthly Climatology polygons
+NED2003002_84: Test 3.6 -> Profile NED2003002_84 outside Monthly Nutrient Climatology polygons
+NED2003002_85: Test 3.6 -> Profile NED2003002_85 outside TS Monthly Climatology polygons
+NED2003002_85: Test 3.6 -> Profile NED2003002_85 outside Monthly Nutrient Climatology polygons
+NED2003002_86: Test 3.6 -> Profile NED2003002_86 outside TS Monthly Climatology polygons
+NED2003002_86: Test 3.6 -> Profile NED2003002_86 outside Monthly Nutrient Climatology polygons
+NED2003002_87: Test 3.6 -> Profile NED2003002_87 outside TS Monthly Climatology polygons
+NED2003002_87: Test 3.6 -> Profile NED2003002_87 outside Monthly Nutrient Climatology polygons
+NED2003002_88: Test 3.6 -> Profile NED2003002_88 outside TS Monthly Climatology polygons
+NED2003002_88: Test 3.6 -> Profile NED2003002_88 outside Monthly Nutrient Climatology polygons
+NED2003002_89: Test 3.6 -> Profile NED2003002_89 outside TS Monthly Climatology polygons
+NED2003002_89: Test 3.6 -> Profile NED2003002_89 outside Monthly Nutrient Climatology polygons
+NED2003002_90: Test 3.6 -> Profile NED2003002_90 outside TS Monthly Climatology polygons
+NED2003002_90: Test 3.6 -> Profile NED2003002_90 outside Monthly Nutrient Climatology polygons
+NED2003002_91: Test 3.6 -> Profile NED2003002_91 outside TS Monthly Climatology polygons
+NED2003002_91: Test 3.6 -> Profile NED2003002_91 outside Monthly Nutrient Climatology polygons
+NED2003002_92: Test 3.6 -> Profile NED2003002_92 outside TS Monthly Climatology polygons
+NED2003002_92: Test 3.6 -> Profile NED2003002_92 outside Monthly Nutrient Climatology polygons
+NED2003002_93: Test 3.6 -> Profile NED2003002_93 outside TS Monthly Climatology polygons
+NED2003002_93: Test 3.6 -> Profile NED2003002_93 outside Monthly Nutrient Climatology polygons
+NED2003002_94: Test 3.6 -> Profile NED2003002_94 outside TS Monthly Climatology polygons
+NED2003002_94: Test 3.6 -> Profile NED2003002_94 outside Monthly Nutrient Climatology polygons
+NED2003002_95: Test 3.6 -> Profile NED2003002_95 outside TS Monthly Climatology polygons
+NED2003002_95: Test 3.6 -> Profile NED2003002_95 outside Monthly Nutrient Climatology polygons
+NED2003002_96: Test 3.6 -> Profile NED2003002_96 outside TS Monthly Climatology polygons
+NED2003002_96: Test 3.6 -> Profile NED2003002_96 outside Monthly Nutrient Climatology polygons
+NED2003002_97: Test 3.6 -> Profile NED2003002_97 outside TS Monthly Climatology polygons
+NED2003002_97: Test 3.6 -> Profile NED2003002_97 outside Monthly Nutrient Climatology polygons
+NED2003002_98: Test 3.6 -> Profile NED2003002_98 outside TS Monthly Climatology polygons
+NED2003002_98: Test 3.6 -> Profile NED2003002_98 outside Monthly Nutrient Climatology polygons
+NED2003002_99: Test 3.6 -> Profile NED2003002_99 outside TS Monthly Climatology polygons
+NED2003002_99: Test 3.6 -> Profile NED2003002_99 outside Monthly Nutrient Climatology polygons

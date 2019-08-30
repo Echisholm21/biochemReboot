@@ -1,0 +1,16 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+NED2012002_1; 2.00; 384440; psal; 30.52; Bottle-CTD Difference Problem
+NED2012002_1; 40.00; 384435; psal; 31.36; Bottle-CTD Difference Problem
+NED2012002_1; 141.00; 384431; psal; 33.59; Bottle-CTD Difference Problem
+NED2012002_1; 30.00; 384436; ntrz; 3.28  ; Out of Nutrient Climatology in box(es) 5 (Min=3.48 Max=15.40 n=72)
+NED2012002_26; 120.00; 384461; psal; 34.46; Bottle-CTD Difference Problem
+NED2012002_38; 67.00; 384473; psal; 34.41; Bottle-CTD Difference Problem
+NED2012002_65; 5.00; 384500; ntrz; 8.37  ; Constant profile problem
+NED2012002_65; 66.00; 384499; ntrz; 8.37  ; Constant profile problem
+NED2012002_90; 41.00; 385013; psal; 33.31; Bottle-CTD Difference Problem
+NED2012002_125; 197.00; 385151; ntrz; 19.00  ; Out of Nutrient Climatology in box(es) 4 (Min=0.01 Max=19.00 n=34)
+NED2012002_143; 4.00; 385234; psal; 33.93; Bottle-CTD Difference Problem
+NED2012002_143; -5 to 5 m; NaN; psal; 33.93  ; Out of TS Climatology by more than 3*std in box(es) 34 (32.43 ± 1.38)
+NED2012002_144; -5 to 5 m; NaN; psal; 33.86  ; Out of TS Climatology by more than 3*std in box(es) 34 (32.43 ± 1.38)
+NED2012002_144; 30.00; 385243; phos; 0.28  ; Out of Nutrient Climatology in box(es) 7 (Min=0.31 Max=1.13 n=100)
+NED2012002_149; 95.00; 384539; psal; 31.04; Bottle-CTD Difference Problem

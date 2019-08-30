@@ -1,0 +1,76 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+NED2003002_0; 1.00; 244859; psal; 31.67; Bottle-CTD Difference Problem
+NED2003002_0; 40.00; 244854; doxy; 6.48; Bottle-CTD Difference Problem
+NED2003002_0; 146.00; 244850; doxy; 3.32; Bottle-CTD Difference Problem
+NED2003002_7; 5.00; 244871; psal; 32.67; Bottle-CTD Difference Problem
+NED2003002_7; 5.00; 244871; doxy; 7.01; Bottle-CTD Difference Problem
+NED2003002_7; 72.00; 244870; doxy; 6.74; Bottle-CTD Difference Problem
+NED2003002_9; 5.00; 244875; doxy; 7.43; Bottle-CTD Difference Problem
+NED2003002_9; 74.00; 244874; doxy; 5.95; Bottle-CTD Difference Problem
+NED2003002_13; 2.00; 244882; psal; 32.44; Bottle-CTD Difference Problem
+NED2003002_13; 5.00; 244881; doxy; 7.16; Bottle-CTD Difference Problem
+NED2003002_13; 120.00; 244880; doxy; 4.30; Bottle-CTD Difference Problem
+NED2003002_15; 5.00; 244885; doxy; 6.98; Bottle-CTD Difference Problem
+NED2003002_15; 69.00; 244884; doxy; 4.43; Bottle-CTD Difference Problem
+NED2003002_16; 1.00; 244889; doxy; 6.92; Bottle-CTD Difference Problem
+NED2003002_16; 5.00; 244888; doxy; 6.89; Bottle-CTD Difference Problem
+NED2003002_16; 101.00; 244887; doxy; 6.19; Bottle-CTD Difference Problem
+NED2003002_18; 5.00; 244892; doxy; 7.36; Bottle-CTD Difference Problem
+NED2003002_18; 47.00; 244891; doxy; 7.32; Bottle-CTD Difference Problem
+NED2003002_20; 5.00; 244898; doxy; 7.43; Bottle-CTD Difference Problem
+NED2003002_20; 33.00; 244897; doxy; 7.43; Bottle-CTD Difference Problem
+NED2003002_22; 5.00; 245302; cphl; 1.00  ; Constant profile problem
+NED2003002_22; 65.00; 245301; cphl; 1.00  ; Constant profile problem
+NED2003002_22; 5.00; 245302; doxy; 7.43; Bottle-CTD Difference Problem
+NED2003002_24; 5.00; 245306; doxy; 7.43; Bottle-CTD Difference Problem
+NED2003002_24; 39.00; 245305; doxy; 7.47; Bottle-CTD Difference Problem
+NED2003002_26; 5.00; 245310; doxy; 7.41; Bottle-CTD Difference Problem
+NED2003002_26; 42.00; 245309; doxy; 7.43; Bottle-CTD Difference Problem
+NED2003002_28; 5.00; 245314; doxy; 7.40; Bottle-CTD Difference Problem
+NED2003002_36; 5.00; 245326; doxy; 7.66; Bottle-CTD Difference Problem
+NED2003002_36; 58.00; 245325; doxy; 7.65; Bottle-CTD Difference Problem
+NED2003002_40; 5.00; 245332; doxy; 7.43; Bottle-CTD Difference Problem
+NED2003002_40; 76.00; 245331; doxy; 7.44; Bottle-CTD Difference Problem
+NED2003002_42; 5.00; 245336; doxy; 7.28; Bottle-CTD Difference Problem
+NED2003002_42; 84.00; 245335; doxy; 7.23; Bottle-CTD Difference Problem
+NED2003002_46; 5.00; 245342; cphl; 0.42  ; Constant profile problem
+NED2003002_46; 80.00; 245341; cphl; 0.42  ; Constant profile problem
+NED2003002_46; 5.00; 245342; doxy; 7.07; Bottle-CTD Difference Problem
+NED2003002_46; 80.00; 245341; doxy; 6.99; Bottle-CTD Difference Problem
+NED2003002_51; 5.00; 245349; doxy; 6.78; Bottle-CTD Difference Problem
+NED2003002_51; 87.00; 245348; doxy; 6.39; Bottle-CTD Difference Problem
+NED2003002_55; 5.00; 245355; doxy; 7.16; Bottle-CTD Difference Problem
+NED2003002_55; 89.00; 245354; doxy; 6.34; Bottle-CTD Difference Problem
+NED2003002_56; 5.00; 245358; doxy; 7.50; Bottle-CTD Difference Problem
+NED2003002_56; 107.00; 245357; doxy; 5.19; Bottle-CTD Difference Problem
+NED2003002_60; 5.00; 245364; doxy; 7.14; Bottle-CTD Difference Problem
+NED2003002_60; 93.00; 245363; doxy; 5.34; Bottle-CTD Difference Problem
+NED2003002_63; 5.00; 245369; doxy; 7.15; Bottle-CTD Difference Problem
+NED2003002_63; 84.00; 245368; doxy; 6.89; Bottle-CTD Difference Problem
+NED2003002_65; 83.00; 245372; doxy; 6.26; Bottle-CTD Difference Problem
+NED2003002_66; 1.00; 245377; doxy; 7.54; Bottle-CTD Difference Problem
+NED2003002_66; 162.00; 245375; doxy; 4.17; Bottle-CTD Difference Problem
+NED2003002_66; 1.00 to 5.00; 245377, 245376; ntrz; 7.33  18.44  ; Gradient or Inversion too high
+NED2003002_67; 5.00; 245379; doxy; 7.56; Bottle-CTD Difference Problem
+NED2003002_67; 80.00; 245378; doxy; 7.61; Bottle-CTD Difference Problem
+NED2003002_72; 5.00; 245387; psal; 33.10; Bottle-CTD Difference Problem
+NED2003002_72; 6.00; 245386; psal; 33.08; Bottle-CTD Difference Problem
+NED2003002_72; 6.00; 245386; doxy; 7.43; Bottle-CTD Difference Problem
+NED2003002_72; 99.00; 245385; doxy; 6.96; Bottle-CTD Difference Problem
+NED2003002_75; 5.00; 245391; doxy; 7.58; Bottle-CTD Difference Problem
+NED2003002_75; 44.00; 245390; doxy; 7.52; Bottle-CTD Difference Problem
+NED2003002_80; 5.00; 245398; doxy; 7.26; Bottle-CTD Difference Problem
+NED2003002_80; 73.00; 245397; doxy; 7.23; Bottle-CTD Difference Problem
+NED2003002_82; 48.00; 245401; doxy; 7.52; Bottle-CTD Difference Problem
+NED2003002_84; 5.00; 245406; doxy; 6.88; Bottle-CTD Difference Problem
+NED2003002_84; 148.00; 245405; doxy; 6.92; Bottle-CTD Difference Problem
+NED2003002_85; 5.00; 245409; cphl; 0.55  ; Constant profile problem
+NED2003002_85; 150.00; 245408; cphl; 0.55  ; Constant profile problem
+NED2003002_85; 5.00; 245409; doxy; 7.06; Bottle-CTD Difference Problem
+NED2003002_85; 150.00; 245408; doxy; 7.07; Bottle-CTD Difference Problem
+NED2003002_89; 5.00; 245415; doxy; 7.14; Bottle-CTD Difference Problem
+NED2003002_89; 68.00; 245414; doxy; 7.16; Bottle-CTD Difference Problem
+NED2003002_91; 5.00; 245419; doxy; 7.40; Bottle-CTD Difference Problem
+NED2003002_91; 39.00; 245418; doxy; 7.38; Bottle-CTD Difference Problem
+NED2003002_95; 5.00; 245425; doxy; 7.21; Bottle-CTD Difference Problem
+NED2003002_98; 173.00; 245429; doxy; 4.29; Bottle-CTD Difference Problem

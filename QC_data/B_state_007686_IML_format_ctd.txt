@@ -1,0 +1,245 @@
+Test 1.5 ->Negative cruise velocity -> Check time of
+    The end of TEM2007686_3 and the beginning of TEM2007686_45 (deltaT=-0.0 h; deltaD=0.0 nm)
+    The end of TEM2007686_3 and the beginning of TEM2007686_45 (found ship velocity is 0.00 kt)
+Test 1.6 -> No known depth for TEM2007686_1
+Test 1.6 -> No known depth for TEM2007686_3
+Test 1.6 -> No known depth for TEM2007686_45
+Test 1.6 -> No known depth for TEM2007686_5
+Test 1.6 -> No known depth for TEM2007686_6
+Test 1.6 -> No known depth for TEM2007686_7
+Test 1.6 -> No known depth for TEM2007686_8
+Test 1.6 -> No known depth for TEM2007686_9
+Test 1.6 -> No known depth for TEM2007686_10
+Test 1.6 -> No known depth for TEM2007686_12
+Test 1.6 -> No known depth for TEM2007686_13
+Test 1.6 -> No known depth for TEM2007686_14
+Test 1.6 -> No known depth for TEM2007686_15
+Test 1.6 -> No known depth for TEM2007686_16
+Test 1.6 -> No known depth for TEM2007686_17
+Test 1.6 -> No known depth for TEM2007686_18
+Test 1.6 -> No known depth for TEM2007686_19
+Test 1.6 -> No known depth for TEM2007686_20
+Test 1.6 -> No known depth for TEM2007686_22
+Test 1.6 -> No known depth for TEM2007686_23
+Test 1.6 -> No known depth for TEM2007686_24
+Test 1.6 -> No known depth for TEM2007686_25
+Test 1.6 -> No known depth for TEM2007686_26
+Test 1.6 -> No known depth for TEM2007686_27
+Test 1.6 -> No known depth for TEM2007686_28
+Test 1.6 -> No known depth for TEM2007686_29
+Test 1.6 -> No known depth for TEM2007686_30
+Test 1.6 -> No known depth for TEM2007686_31
+Test 1.6 -> No known depth for TEM2007686_33
+Test 1.6 -> No known depth for TEM2007686_34
+Test 1.6 -> No known depth for TEM2007686_35
+Test 1.6 -> No known depth for TEM2007686_36
+Test 1.6 -> No known depth for TEM2007686_51
+Test 1.6 -> No known depth for TEM2007686_52
+Test 1.6 -> No known depth for TEM2007686_53
+Test 1.6 -> No known depth for TEM2007686_54
+Test 1.6 -> No known depth for TEM2007686_55
+Test 1.6 -> No known depth for TEM2007686_56
+Test 1.6 -> No known depth for TEM2007686_57
+Test 1.6 -> No known depth for TEM2007686_58
+Test 1.6 -> No known depth for TEM2007686_60
+Test 1.6 -> No known depth for TEM2007686_61
+Test 1.6 -> No known depth for TEM2007686_62
+Test 1.6 -> No known depth for TEM2007686_63
+Test 1.6 -> No known depth for TEM2007686_64
+Test 1.6 -> No known depth for TEM2007686_66
+Test 1.6 -> No known depth for TEM2007686_67
+Test 1.6 -> No known depth for TEM2007686_69
+Test 1.6 -> No known depth for TEM2007686_70
+Test 1.6 -> No known depth for TEM2007686_71
+Test 1.6 -> No known depth for TEM2007686_73
+Test 1.6 -> No known depth for TEM2007686_74
+Test 1.6 -> No known depth for TEM2007686_75
+Test 1.6 -> No known depth for TEM2007686_76
+Test 1.6 -> No known depth for TEM2007686_77
+Test 1.6 -> No known depth for TEM2007686_78
+Test 1.6 -> No known depth for TEM2007686_79
+Test 1.6 -> No known depth for TEM2007686_80
+Test 1.6 -> No known depth for TEM2007686_81
+Test 1.6 -> No known depth for TEM2007686_82
+Test 1.6 -> No known depth for TEM2007686_83
+Test 1.6 -> No known depth for TEM2007686_84
+Test 1.6 -> No known depth for TEM2007686_85
+Test 1.6 -> No known depth for TEM2007686_86
+Test 1.6 -> No known depth for TEM2007686_87
+Test 1.6 -> No known depth for TEM2007686_88
+Test 1.6 -> No known depth for TEM2007686_89
+Test 1.6 -> No known depth for TEM2007686_90
+Test 1.6 -> No known depth for TEM2007686_101
+TEM2007686_5: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_5: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_6: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_6: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_9: Test 3.5 -> temp in box(es) 8 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_9: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_9: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 200.0 m
+TEM2007686_34: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_35: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_46: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_46: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_47: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_47: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_47: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_47: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_48: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_48: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_48: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_48: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_49: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_49: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_49: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_49: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_49: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 75.0 m
+TEM2007686_50: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_50: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_51: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_51: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_51: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_51: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_52: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_52: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_52: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_52: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_53: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_53: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_53: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_53: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_53: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 100.0 m
+TEM2007686_54: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_54: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_54: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_54: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_55: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_55: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_55: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_55: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_55: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 50.0 m
+TEM2007686_56: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_56: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_56: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_56: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_56: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 100.0 m
+TEM2007686_57: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_57: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_57: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_57: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_57: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_57: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 30.0 m
+TEM2007686_57: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_57: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 30.0 m
+TEM2007686_58: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_58: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_58: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_58: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_59: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_59: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_59: Test 3.5 -> temp in box(es) 6 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_59: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_60: Test 3.5 -> temp in box(es) 7 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_60: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_61: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_61: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_61: Test 3.5 -> temp in box(es) 7 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_61: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_62: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_62: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_62: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_62: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_62: Test 3.5 -> temp in box(es) 7 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_62: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_63: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_63: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_63: Test 3.5 -> temp in box(es) 7 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_63: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_64: Test 3.5 -> temp in box(es) 9 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_64: Test 3.5 -> psal in box(es) 9 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_66: Test 3.5 -> temp in box(es) 9 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_66: Test 3.5 -> psal in box(es) 9 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_66: Test 3.5 -> psal in box(es) 9 is out of TS Climatology by more than 3*std at 50.0 m
+TEM2007686_67: Test 3.5 -> temp in box(es) 9 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_67: Test 3.5 -> psal in box(es) 9 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_67: Test 3.5 -> psal in box(es) 9 is out of TS Climatology by more than 3*std at 50.0 m
+TEM2007686_69: Test 3.5 -> temp in box(es) 9 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_69: Test 3.5 -> psal in box(es) 9 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_69: Test 3.5 -> psal in box(es) 9 is out of TS Climatology by more than 3*std at 50.0 m
+TEM2007686_70: Test 3.5 -> temp in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_70: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_70: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 150.0 m
+TEM2007686_71: Test 3.5 -> temp in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_71: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_73: Test 3.5 -> temp in box(es) 34 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_73: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_73: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 100.0 m
+TEM2007686_74: Test 3.5 -> temp in box(es) 34 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_74: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_74: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 200.0 m
+TEM2007686_75: Test 3.5 -> temp in box(es) 9 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_75: Test 3.5 -> psal in box(es) 9 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_76: Test 3.5 -> temp in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_76: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_76: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 75.0 m
+TEM2007686_77: Test 3.5 -> temp in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_77: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_78: Test 3.5 -> temp in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_78: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_79: Test 3.5 -> temp in box(es) 10 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_79: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_80: Test 3.5 -> temp in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_80: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_80: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 50.0 m
+TEM2007686_81: Test 3.5 -> temp in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_81: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_81: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 75.0 m
+TEM2007686_82: Test 3.5 -> temp in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_82: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_82: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 100.0 m
+TEM2007686_83: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_83: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_83: Test 3.5 -> temp in box(es) 14 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_83: Test 3.5 -> temp in box(es) 14 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_83: Test 3.5 -> temp in box(es) 14 is out of TS Climatology by more than 3*std at 20.0 m
+TEM2007686_83: Test 3.5 -> temp in box(es) 14 is out of TS Climatology by more than 3*std at 30.0 m
+TEM2007686_83: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_83: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_83: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 20.0 m
+TEM2007686_83: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 30.0 m
+TEM2007686_83: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 50.0 m
+TEM2007686_83: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 75.0 m
+TEM2007686_83: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 100.0 m
+TEM2007686_84: Test 2.1 -> Global Impossible Parameter Value for doxy
+TEM2007686_84: Test 2.2 -> Regional Impossible Parameter Value for doxy
+TEM2007686_84: Test 3.5 -> temp in box(es) 12 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_84: Test 3.5 -> psal in box(es) 12 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_84: Test 3.5 -> psal in box(es) 12 is out of TS Climatology by more than 3*std at 100.0 m
+TEM2007686_85: Test 3.5 -> temp in box(es) 11 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_85: Test 3.5 -> psal in box(es) 11 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_85: Test 3.5 -> psal in box(es) 11 is out of TS Climatology by more than 3*std at 100.0 m
+TEM2007686_86: Test 3.5 -> temp in box(es) 11 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_86: Test 3.5 -> psal in box(es) 11 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_87: Test 3.5 -> temp in box(es) 11 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_87: Test 3.5 -> psal in box(es) 11 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_87: Test 3.5 -> psal in box(es) 11 is out of TS Climatology by more than 3*std at 100.0 m
+TEM2007686_88: Test 3.5 -> temp in box(es) 16 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_88: Test 3.5 -> psal in box(es) 16 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_88: Test 3.5 -> psal in box(es) 16 is out of TS Climatology by more than 3*std at 150.0 m
+TEM2007686_89: Test 3.5 -> temp in box(es) 33 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_89: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 0.0 m
+TEM2007686_89: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 250.0 m
+TEM2007686_90: Test 3.5 -> temp in box(es) 22 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_90: Test 3.5 -> psal in box(es) 22 is out of TS Climatology by more than 3*std at 10.0 m
+TEM2007686_90: Test 3.5 -> psal in box(es) 22 is out of TS Climatology by more than 3*std at 150.0 m
+TEM2007686_101: Test 3.5 -> psal in box(es) 22 is out of TS Climatology by more than 3*std at 75.0 m

@@ -1,0 +1,37 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+NED2003003_0; 75.00; 258855; doxy; 13.33  ; Global Impossible Parameter Value
+NED2003003_0; 75.00; 258855; doxy; 13.33  ; Regional Impossible Parameter Value
+NED2003003_0; 75.00; 258855; temp; -1.14  ; Data Below Freezing Temperature
+NED2003003_1; 25.00; 258858; psal; -0.94  ; Global Impossible Parameter Value
+NED2003003_1; 5.00; 258857; doxy; 32.10  ; Global Impossible Parameter Value
+NED2003003_1; 25.00; 258858; doxy; -1.62  ; Global Impossible Parameter Value
+NED2003003_1; 25.00; 258858; psal; -0.94  ; Regional Impossible Parameter Value
+NED2003003_1; 5.00; 258857; doxy; 32.10  ; Regional Impossible Parameter Value
+NED2003003_1; 25.00; 258858; doxy; -1.62  ; Regional Impossible Parameter Value
+NED2003003_1; 1.00 to 5.00; -999999, 258857; psal; 3.03  31.89  ; Gradient or Inversion too high
+NED2003003_2; 25.00 to 50.00; 258866, 258865; psal; 34.52  31.94  ; Gradient or Inversion too high
+NED2003003_29; 25.00 to 50.00; 245498, 245497; psal; 34.90  32.21  ; Gradient or Inversion too high
+NED2003003_30; 25.00 to 50.00; 256802, 256801; psal; 34.84  32.11  ; Gradient or Inversion too high
+NED2003003_37; 5.00; 256818; doxy; 32.51  ; Global Impossible Parameter Value
+NED2003003_37; 5.00; 256818; doxy; 32.51  ; Regional Impossible Parameter Value
+NED2003003_37; 5.00 to 25.00; 256818, 256817; psal; 32.50  4.58  ; Gradient or Inversion too high
+NED2003003_39; 5.00 to 25.00; 256826, 256825; psal; 34.53  32.34  ; Gradient or Inversion too high
+NED2003003_42; 5.00 to 25.00; 256838, 256837; psal; 34.88  32.41  ; Gradient or Inversion too high
+NED2003003_43; 5.00 to 25.00; 256842, 256841; psal; 34.77  32.58  ; Gradient or Inversion too high
+NED2003003_45; 5.00 to 25.00; 256850, 256849; psal; 34.78  32.21  ; Gradient or Inversion too high
+NED2003003_51; 5.00 to 25.00; 256874, 256873; psal; 34.44  32.15  ; Gradient or Inversion too high
+NED2003003_72; 5.00 to 25.00; 256939, 256938; psal; 34.97  32.20  ; Gradient or Inversion too high
+NED2003003_73; 5.00 to 25.00; 256943, 256942; psal; 34.38  32.32  ; Gradient or Inversion too high
+NED2003003_74; 5.00 to 25.00; 256947, 256946; psal; 34.82  32.22  ; Gradient or Inversion too high
+NED2003003_75; 5.00 to 25.00; 256951, 256950; psal; 34.40  32.32  ; Gradient or Inversion too high
+NED2003003_83; 1.00 to 25.00; 256976, 256975; psal; 34.87  32.07  ; Gradient or Inversion too high
+NED2003003_93; 5.00 to 25.00; 181018, 181017; psal; 34.30  32.23  ; Gradient or Inversion too high
+NED2003003_95; 5.00 to 25.00; 181025, 181024; psal; 34.99  32.09  ; Gradient or Inversion too high
+NED2003003_100; 25.00 to 50.00; 181044, 181043; psal; 34.64  31.71  ; Gradient or Inversion too high
+NED2003003_104; 25.00 to 50.00; 181056, 181055; psal; 34.98  32.42  ; Gradient or Inversion too high
+NED2003003_105; 25.00 to 50.00; 181060, 181059; psal; 34.96  31.92  ; Gradient or Inversion too high
+NED2003003_106; 25.00 to 50.00; 181064, 181063; psal; 35.05  31.82  ; Gradient or Inversion too high
+NED2003003_107; 25.00 to 50.00; 181068, 181067; psal; 34.65  31.70  ; Gradient or Inversion too high
+NED2003003_108; 25.00 to 50.00; 181072, 181071; psal; 34.57  31.85  ; Gradient or Inversion too high
+NED2003003_109; 25.00 to 50.00; 181076, 181075; psal; 34.90  32.06  ; Gradient or Inversion too high
+NED2003003_110; 25.00 to 50.00; 181080, 181079; psal; 35.12  31.72  ; Gradient or Inversion too high

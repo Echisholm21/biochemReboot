@@ -1,0 +1,65 @@
+Test 1.6 -> No known depth for TEM2008775_2
+Test 1.6 -> No known depth for TEM2008775_3
+Test 1.6 -> No known depth for TEM2008775_6
+Test 1.6 -> No known depth for TEM2008775_9
+Test 1.6 -> No known depth for TEM2008775_11
+Test 1.6 -> No known depth for TEM2008775_14
+Test 1.6 -> No known depth for TEM2008775_18
+Test 1.6 -> No known depth for TEM2008775_20
+Test 1.6 -> No known depth for TEM2008775_21
+Test 1.6 -> No known depth for TEM2008775_23
+Test 1.6 -> No known depth for TEM2008775_25
+Test 1.6 -> No known depth for TEM2008775_27
+Test 1.6 -> No known depth for TEM2008775_28
+Test 1.6 -> No known depth for TEM2008775_29
+Test 1.6 -> No known depth for TEM2008775_30
+Test 1.6 -> No known depth for TEM2008775_32
+Test 1.6 -> No known depth for TEM2008775_33
+Test 1.6 -> No known depth for TEM2008775_34
+Test 1.6 -> No known depth for TEM2008775_35
+Test 1.6 -> No known depth for TEM2008775_36
+Test 1.6 -> No known depth for TEM2008775_37
+Test 1.6 -> No known depth for TEM2008775_38
+Test 1.6 -> No known depth for TEM2008775_39
+Test 1.6 -> No known depth for TEM2008775_40
+Test 1.6 -> No known depth for TEM2008775_43
+Test 1.6 -> No known depth for TEM2008775_46
+Test 1.6 -> No known depth for TEM2008775_48
+Test 1.6 -> No known depth for TEM2008775_49
+Test 1.6 -> No known depth for TEM2008775_50
+Test 1.6 -> No known depth for TEM2008775_51
+Test 1.6 -> No known depth for TEM2008775_54
+Test 1.6 -> No known depth for TEM2008775_56
+Test 1.6 -> No known depth for TEM2008775_59
+Test 1.6 -> No known depth for TEM2008775_60
+Test 1.6 -> No known depth for TEM2008775_62
+Test 1.6 -> No known depth for TEM2008775_65
+Test 1.6 -> No known depth for TEM2008775_69
+Test 1.6 -> No known depth for TEM2008775_70
+Test 1.6 -> No known depth for TEM2008775_71
+Test 1.6 -> No known depth for TEM2008775_72
+Test 1.6 -> No known depth for TEM2008775_73
+Test 1.6 -> No known depth for TEM2008775_74
+Test 1.6 -> No known depth for TEM2008775_75
+Test 1.6 -> No known depth for TEM2008775_76
+Test 1.6 -> No known depth for TEM2008775_78
+Test 1.6 -> No known depth for TEM2008775_79
+Test 1.6 -> No known depth for TEM2008775_80
+Test 1.6 -> No known depth for TEM2008775_82
+Test 1.6 -> No known depth for TEM2008775_83
+Test 1.6 -> No known depth for TEM2008775_84
+Test 1.6 -> No known depth for TEM2008775_86
+Test 1.6 -> No known depth for TEM2008775_90
+Test 1.6 -> No known depth for TEM2008775_91
+Test 1.6 -> No known depth for TEM2008775_92
+Test 1.6 -> No known depth for TEM2008775_94
+Test 1.6 -> No known depth for TEM2008775_97
+Test 1.6 -> No known depth for TEM2008775_98
+Test 1.6 -> No known depth for TEM2008775_99
+Test 1.6 -> No known depth for TEM2008775_100
+Test 1.6 -> No known depth for TEM2008775_101
+TEM2008775_28: Test 3.5 -> Profile TEM2008775_28 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+TEM2008775_29: Test 3.5 -> Profile TEM2008775_29 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+TEM2008775_48: Test 3.5 -> psal in box(es) 28 is out of TS Climatology by more than 3*std at 150.0 m
+TEM2008775_78: Test 3.5 -> Profile TEM2008775_78 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+TEM2008775_81: Test 3.5 -> psal in box(es) 55 is out of TS Climatology by more than 3*std at 50.0 m

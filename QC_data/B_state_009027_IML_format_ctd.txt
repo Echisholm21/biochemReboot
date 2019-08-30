@@ -1,0 +1,208 @@
+Test 1.6 -> No known depth for NED2009027_1
+Test 1.6 -> No known depth for NED2009027_3
+Test 1.6 -> No known depth for NED2009027_4
+Test 1.6 -> No known depth for NED2009027_5
+Test 1.6 -> No known depth for NED2009027_6
+Test 1.6 -> No known depth for NED2009027_7
+Test 1.6 -> No known depth for NED2009027_8
+Test 1.6 -> No known depth for NED2009027_9
+Test 1.6 -> No known depth for NED2009027_10
+Test 1.6 -> No known depth for NED2009027_11
+Test 1.6 -> No known depth for NED2009027_12
+Test 1.6 -> No known depth for NED2009027_13
+Test 1.6 -> No known depth for NED2009027_14
+Test 1.6 -> No known depth for NED2009027_15
+Test 1.6 -> No known depth for NED2009027_16
+Test 1.6 -> No known depth for NED2009027_17
+Test 1.6 -> No known depth for NED2009027_18
+Test 1.6 -> No known depth for NED2009027_19
+Test 1.6 -> No known depth for NED2009027_20
+Test 1.6 -> No known depth for NED2009027_21
+Test 1.6 -> No known depth for NED2009027_22
+Test 1.6 -> No known depth for NED2009027_23
+Test 1.6 -> No known depth for NED2009027_24
+Test 1.6 -> No known depth for NED2009027_25
+Test 1.6 -> No known depth for NED2009027_27
+Test 1.6 -> No known depth for NED2009027_28
+Test 1.6 -> No known depth for NED2009027_29
+Test 1.6 -> No known depth for NED2009027_31
+Test 1.6 -> No known depth for NED2009027_32
+Test 1.6 -> No known depth for NED2009027_33
+Test 1.6 -> No known depth for NED2009027_34
+Test 1.6 -> No known depth for NED2009027_37
+Test 1.6 -> No known depth for NED2009027_38
+Test 1.6 -> No known depth for NED2009027_39
+Test 1.6 -> No known depth for NED2009027_40
+Test 1.6 -> No known depth for NED2009027_41
+Test 1.6 -> No known depth for NED2009027_42
+Test 1.6 -> No known depth for NED2009027_44
+Test 1.6 -> No known depth for NED2009027_45
+Test 1.6 -> No known depth for NED2009027_46
+Test 1.6 -> No known depth for NED2009027_47
+Test 1.6 -> No known depth for NED2009027_48
+Test 1.6 -> No known depth for NED2009027_49
+Test 1.6 -> No known depth for NED2009027_50
+Test 1.6 -> No known depth for NED2009027_51
+Test 1.6 -> No known depth for NED2009027_52
+Test 1.6 -> No known depth for NED2009027_53
+Test 1.6 -> No known depth for NED2009027_54
+Test 1.6 -> No known depth for NED2009027_55
+Test 1.6 -> No known depth for NED2009027_56
+Test 1.6 -> No known depth for NED2009027_57
+Test 1.6 -> No known depth for NED2009027_58
+Test 1.6 -> No known depth for NED2009027_59
+Test 1.6 -> No known depth for NED2009027_60
+Test 1.6 -> No known depth for NED2009027_61
+Test 1.6 -> No known depth for NED2009027_62
+Test 1.6 -> No known depth for NED2009027_66
+Test 1.6 -> No known depth for NED2009027_67
+Test 1.6 -> No known depth for NED2009027_68
+Test 1.6 -> No known depth for NED2009027_69
+Test 1.6 -> No known depth for NED2009027_70
+Test 1.6 -> No known depth for NED2009027_71
+Test 1.6 -> No known depth for NED2009027_72
+Test 1.6 -> No known depth for NED2009027_73
+Test 1.6 -> No known depth for NED2009027_74
+Test 1.6 -> No known depth for NED2009027_75
+Test 1.6 -> No known depth for NED2009027_76
+Test 1.6 -> No known depth for NED2009027_77
+Test 1.6 -> No known depth for NED2009027_78
+Test 1.6 -> No known depth for NED2009027_80
+Test 1.6 -> No known depth for NED2009027_81
+Test 1.6 -> No known depth for NED2009027_82
+Test 1.6 -> No known depth for NED2009027_83
+Test 1.6 -> No known depth for NED2009027_84
+Test 1.6 -> No known depth for NED2009027_85
+Test 1.6 -> No known depth for NED2009027_86
+Test 1.6 -> No known depth for NED2009027_87
+Test 1.6 -> No known depth for NED2009027_88
+Test 1.6 -> No known depth for NED2009027_89
+Test 1.6 -> No known depth for NED2009027_90
+Test 1.6 -> No known depth for NED2009027_91
+Test 1.6 -> No known depth for NED2009027_92
+Test 1.6 -> No known depth for NED2009027_93
+Test 1.6 -> No known depth for NED2009027_94
+Test 1.6 -> No known depth for NED2009027_95
+Test 1.6 -> No known depth for NED2009027_96
+Test 1.6 -> No known depth for NED2009027_97
+Test 1.6 -> No known depth for NED2009027_98
+Test 1.6 -> No known depth for NED2009027_99
+Test 1.6 -> No known depth for NED2009027_100
+Test 1.6 -> No known depth for NED2009027_101
+Test 1.6 -> No known depth for NED2009027_102
+Test 1.6 -> No known depth for NED2009027_103
+Test 1.6 -> No known depth for NED2009027_104
+Test 1.6 -> No known depth for NED2009027_105
+Test 1.6 -> No known depth for NED2009027_106
+Test 1.6 -> No known depth for NED2009027_107
+Test 1.6 -> No known depth for NED2009027_108
+Test 1.6 -> No known depth for NED2009027_109
+Test 1.6 -> No known depth for NED2009027_110
+Test 1.6 -> No known depth for NED2009027_111
+Test 1.6 -> No known depth for NED2009027_112
+Test 1.6 -> No known depth for NED2009027_113
+Test 1.6 -> No known depth for NED2009027_114
+Test 1.6 -> No known depth for NED2009027_115
+Test 1.6 -> No known depth for NED2009027_116
+Test 1.6 -> No known depth for NED2009027_117
+Test 1.6 -> No known depth for NED2009027_118
+Test 1.6 -> No known depth for NED2009027_119
+Test 1.6 -> No known depth for NED2009027_120
+Test 1.6 -> No known depth for NED2009027_121
+Test 1.6 -> No known depth for NED2009027_122
+Test 1.6 -> No known depth for NED2009027_123
+Test 1.6 -> No known depth for NED2009027_124
+Test 1.6 -> No known depth for NED2009027_125
+Test 1.6 -> No known depth for NED2009027_126
+Test 1.6 -> No known depth for NED2009027_127
+Test 1.6 -> No known depth for NED2009027_128
+Test 1.6 -> No known depth for NED2009027_129
+Test 1.6 -> No known depth for NED2009027_130
+Test 1.6 -> No known depth for NED2009027_162
+Test 1.6 -> No known depth for NED2009027_163
+Test 1.6 -> No known depth for NED2009027_164
+Test 1.6 -> No known depth for NED2009027_165
+Test 1.6 -> No known depth for NED2009027_166
+Test 1.6 -> No known depth for NED2009027_167
+Test 1.6 -> No known depth for NED2009027_168
+Test 1.6 -> No known depth for NED2009027_169
+Test 1.6 -> No known depth for NED2009027_170
+Test 1.6 -> No known depth for NED2009027_171
+Test 1.6 -> No known depth for NED2009027_172
+Test 1.6 -> No known depth for NED2009027_173
+Test 1.6 -> No known depth for NED2009027_174
+Test 1.6 -> No known depth for NED2009027_175
+Test 1.6 -> No known depth for NED2009027_176
+Test 1.6 -> No known depth for NED2009027_177
+Test 1.6 -> No known depth for NED2009027_178
+Test 1.6 -> No known depth for NED2009027_179
+Test 1.6 -> No known depth for NED2009027_180
+Test 1.6 -> No known depth for NED2009027_181
+Test 1.6 -> No known depth for NED2009027_182
+Test 1.6 -> No known depth for NED2009027_183
+Test 1.6 -> No known depth for NED2009027_184
+Test 1.6 -> No known depth for NED2009027_185
+Test 1.6 -> No known depth for NED2009027_186
+Test 1.6 -> No known depth for NED2009027_187
+Test 1.6 -> No known depth for NED2009027_188
+Test 1.6 -> No known depth for NED2009027_189
+Test 1.6 -> No known depth for NED2009027_190
+Test 1.6 -> No known depth for NED2009027_191
+Test 1.6 -> No known depth for NED2009027_192
+Test 1.6 -> No known depth for NED2009027_193
+Test 1.6 -> No known depth for NED2009027_194
+Test 1.6 -> No known depth for NED2009027_195
+Test 1.6 -> No known depth for NED2009027_196
+Test 1.6 -> No known depth for NED2009027_198
+Test 1.6 -> No known depth for NED2009027_199
+Test 1.6 -> No known depth for NED2009027_200
+Test 1.6 -> No known depth for NED2009027_201
+Test 1.6 -> No known depth for NED2009027_202
+Test 1.6 -> No known depth for NED2009027_203
+Test 1.6 -> No known depth for NED2009027_204
+Test 1.6 -> No known depth for NED2009027_205
+Test 1.6 -> No known depth for NED2009027_206
+Test 1.6 -> No known depth for NED2009027_207
+Test 1.6 -> No known depth for NED2009027_208
+Test 1.6 -> No known depth for NED2009027_209
+Test 1.6 -> No known depth for NED2009027_210
+Test 1.6 -> No known depth for NED2009027_211
+Test 1.6 -> No known depth for NED2009027_212
+Test 1.6 -> No known depth for NED2009027_213
+Test 1.6 -> No known depth for NED2009027_214
+Test 1.6 -> No known depth for NED2009027_215
+NED2009027_1: Test 3.5 -> temp in box(es) 14 is out of TS Climatology by more than 3*std at 20.0 m
+NED2009027_4: Test 3.5 -> temp in box(es) 14 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_16: Test 3.5 -> temp in box(es) 17 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_28: Test 3.5 -> temp in box(es) 21 is out of TS Climatology by more than 3*std at 20.0 m
+NED2009027_38: Test 3.5 -> psal in box(es) 22 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_39: Test 3.5 -> psal in box(es) 22 is out of TS Climatology by more than 3*std at 20.0 m
+NED2009027_50: Test 3.5 -> psal in box(es) 25 is out of TS Climatology by more than 3*std at 0.0 m
+NED2009027_52: Test 3.5 -> psal in box(es) 24 is out of TS Climatology by more than 3*std at 10.0 m
+NED2009027_52: Test 3.5 -> psal in box(es) 24 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_58: Test 3.5 -> Profile NED2009027_58 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+NED2009027_68: Test 3.5 -> Profile NED2009027_68 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+NED2009027_86: Test 3.5 -> temp in box(es) 30 is out of TS Climatology by more than 3*std at 20.0 m
+NED2009027_89: Test 3.5 -> psal in box(es) 18 is out of TS Climatology by more than 3*std at 50.0 m
+NED2009027_94: Test 3.5 -> temp in box(es) 14 is out of TS Climatology by more than 3*std at 10.0 m
+NED2009027_106: Test 3.5 -> psal in box(es) 12 is out of TS Climatology by more than 3*std at 0.0 m
+NED2009027_125: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 10.0 m
+NED2009027_126: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+NED2009027_126: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_148: Test 3.5 -> temp in box(es) 6 is out of TS Climatology by more than 3*std at 10.0 m
+NED2009027_150: Test 3.5 -> psal in box(es) 2 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_157: Test 3.5 -> psal in box(es) 2 is out of TS Climatology by more than 3*std at 10.0 m
+NED2009027_161: Test 3.5 -> temp in box(es) 5 is out of TS Climatology by more than 3*std at 250.0 m
+NED2009027_179: Test 3.5 -> temp in box(es) 4 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_179: Test 3.5 -> temp in box(es) 4 is out of TS Climatology by more than 3*std at 50.0 m
+NED2009027_179: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 50.0 m
+NED2009027_180: Test 3.5 -> temp in box(es) 4 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_180: Test 3.5 -> temp in box(es) 4 is out of TS Climatology by more than 3*std at 50.0 m
+NED2009027_180: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_180: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 50.0 m
+NED2009027_183: Test 3.5 -> temp in box(es) 4 is out of TS Climatology by more than 3*std at 20.0 m
+NED2009027_184: Test 3.5 -> temp in box(es) 4 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_191: Test 3.5 -> temp in box(es) 9 is out of TS Climatology by more than 3*std at 30.0 m
+NED2009027_211: Test 3.5 -> temp in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+NED2009027_214: Test 3.5 -> psal in box(es) 16 is out of TS Climatology by more than 3*std at 20.0 m
+NED2009027_215: Test 3.5 -> temp in box(es) 14 is out of TS Climatology by more than 3*std at 10.0 m

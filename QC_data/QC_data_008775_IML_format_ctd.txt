@@ -1,0 +1,11 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+TEM2008775_21; 6.00; 321028; psal; 32.83  ; Constant profile problem
+TEM2008775_21; 57.00; 321027; psal; 32.83  ; Constant profile problem
+TEM2008775_28; 5 to 15 m; NaN; psal; 31.48  ; Out of TS Climatology by more than 3*std in box(es) 54 (32.16 ± 0.51)
+TEM2008775_29; 5 to 15 m; NaN; psal; 31.30  ; Out of TS Climatology by more than 3*std in box(es) 54 (32.16 ± 0.51)
+TEM2008775_30; 5 to 15 m; NaN; psal; 31.24  ; Out of TS Climatology by more than 3*std in box(es) 54 (32.16 ± 0.51)
+TEM2008775_78; 5 to 15 m; NaN; psal; 30.32  ; Out of TS Climatology by more than 3*std in box(es) 54, 55 (32.16 ± 0.51)
+TEM2008775_81; 5 to 15 m; NaN; psal; 31.18  ; Out of TS Climatology by more than 3*std in box(es) 55 (31.62 ± 0.36)
+TEM2008775_81; 45 to 55 m; NaN; psal; 31.19  ; Out of TS Climatology by more than 3*std in box(es) 55 (31.91 ± 0.36)
+TEM2008775_101; 2.00; 321140; doxy; 10.76  ; Regional Impossible Parameter Value
+TEM2008775_101; 2.00 to 6.00; 321140, 321139; psal; 32.10  31.50  ; Gradient or Inversion too high
