@@ -1,3 +1,0 @@
-Filename; Pressure; Uniqueno; Variable; Values; Test failed
-NED2010002_43; 5 to 15 m; NaN; psal; 32.36  ; Out of TS Climatology by more than 3*std in box(es) 3 (31.87 ± 0.45)
-NED2010002_91; 25 to 35 m; NaN; psal; 32.70  ; Out of TS Climatology by more than 3*std in box(es) 12 (31.96 ± 0.63)

@@ -1,9 +1,0 @@
-Filename; Pressure; Uniqueno; Variable; Values; Test failed
-NED2013002_59; -5 to 5 m; NaN; temp; 6.81  ; Out of TS Climatology by more than 3*std in box(es) 28 (4.02 ± 2.61)
-NED2013002_60; 5 to 15 m; NaN; temp; 7.20  ; Out of TS Climatology by more than 3*std in box(es) 28 (3.93 ± 2.46)
-NED2013002_75; 5 to 15 m; NaN; temp; 9.33  ; Out of TS Climatology by more than 3*std in box(es) 37 (4.70 ± 3.69)
-NED2013002_76; -5 to 5 m; NaN; temp; 8.58  ; Out of TS Climatology by more than 3*std in box(es) 61 (4.83 ± 3.06)
-NED2013002_88; 5 to 15 m; NaN; temp; 6.69  ; Out of TS Climatology by more than 3*std in box(es) 41 (4.35 ± 2.10)
-NED2013002_93; -5 to 5 m; NaN; temp; 6.57  ; Out of TS Climatology by more than 3*std in box(es) 41 (4.39 ± 2.16)
-NED2013002_93; 15 to 25 m; NaN; temp; 6.57  ; Out of TS Climatology by more than 3*std in box(es) 41 (4.33 ± 2.10)
-NED2013002_93; 45 to 55 m; NaN; temp; 6.58  ; Out of TS Climatology by more than 3*std in box(es) 41 (4.38 ± 2.10)

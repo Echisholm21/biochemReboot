@@ -1,3 +1,0 @@
-Filename; Pressure; Uniqueno; Variable; Values; Test failed
-NED2010001_40; 82.00; 336820; phos; 1.69  ; Out of Nutrient Climatology in box(es) 2 (Min=0.14 Max=1.09 n=198)
-NED2010001_69; 152.00; 336849; psal; 33.97; Bottle-CTD Difference Problem

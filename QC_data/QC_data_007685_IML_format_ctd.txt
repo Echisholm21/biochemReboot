@@ -1,4 +1,0 @@
-Filename; Pressure; Uniqueno; Variable; Values; Test failed
-TEM2007685_16; 5 to 15 m; NaN; psal; 32.01  ; Out of TS Climatology by more than 3*std in box(es) 27 (33.13 ± 1.05)
-TEM2007685_60; -5 to 5 m; NaN; psal; 31.76  ; Out of TS Climatology by more than 3*std in box(es) 36 (32.86 ± 1.02)
-TEM2007685_81; -5 to 5 m; NaN; psal; 32.66  ; Out of TS Climatology by more than 3*std in box(es) 59 (33.02 ± 0.18)
