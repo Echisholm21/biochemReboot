@@ -4,7 +4,7 @@
 
 library(dplyr)
 # read in biochem data pull
-
+creator <- 'E. Chisholm'
 bc_table <- read.csv('C:/Users/ChisholmE/2013_discrete.csv', stringsAsFactors = FALSE)
 
 #split by cruise for ease
@@ -89,7 +89,7 @@ bcd_dat <- data[bcd_cols]
 
 bcd_dat_c <- bcd_dat %>%
   dplyr::mutate(., DIS_DATA_NUM = seq(1:length(bcd_dat[,1]))) %>%
-  dplyr::mutate(., CREATED_BY = 'E. CHISHOLM') %>%
+  dplyr::mutate(., CREATED_BY = creator) %>%
   dplyr::mutate(., CREATED_DATE = Sys.Date()) %>%
   dplyr::mutate(., PROCESS_FLAG = 'NR') %>%
   dplyr::mutate(., BATCH_SEQ = substr(bcd_dat$MISSION_DESCRIPTOR, nchar(bcd_dat$MISSION_DESCRIPTOR) - 4, nchar(bcd_dat$MISSION_DESCRIPTOR))) %>%

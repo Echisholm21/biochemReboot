@@ -4,7 +4,7 @@
 
 library(dplyr)
 # read in biochem data pull
-
+creator <- 'E. Chisholm'
 bc_table <- read.csv('E:/BioChem QC/BC_Groundfish/BCS_Groundfish_discrete.csv', stringsAsFactors = FALSE)
 # read template
 
@@ -90,7 +90,7 @@ for (i in 1:length(descriptors)){
   # create missing bcs columns
   
   bcs_dat_c <- bcs_dat %>%
-    dplyr::mutate(., CREATED_BY = 'E. CHISHOLM') %>%
+    dplyr::mutate(., CREATED_BY = creator) %>%
     dplyr::mutate(., CREATED_DATE = Sys.Date()) %>%
     dplyr::mutate(., PROCESS_FLAG = 'NR') %>%
     dplyr::mutate(., DIS_HEADER_COLLECTOR_SAMPLE_ID = data$DIS_HEADER_COLLECTOR_SAMPLE_ID) %>%
